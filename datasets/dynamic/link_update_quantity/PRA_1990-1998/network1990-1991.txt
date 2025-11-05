@@ -1,0 +1,290 @@
+c. denise caldwell;scott b. whitfield
+manfred o. krause;anthony f. starace
+j. j. tulkki;helena  aksela
+robert w. dunford;h. gordon berry
+t. brian kennedy;daniel f. walls
+r. h. schuch;sheldon  datz
+d. h. schneider;h. gordon berry
+helmut  ritsch;daniel f. walls
+r. m. potvliege;marcel  pont
+walter r. johnson;jonathan r. sapirstein
+w. x. zhang;r. l. graham
+wim  ubachs;wim  hogervorst
+peter  zoller;john c. cooper
+daniel f. walls;murray j. holland
+kennedy j. reed;mau hsiung chen
+marlan o. scully;girish s. agarwal
+michael s. pindzola;n. r. badnell
+alexander l. gaeta;robert w. boyd
+peter  zoller;c. w. gardiner
+john c. cooper;bo  gao
+e. a. hessels;stephen r. lundeen
+bernard  piraux;peter l. knight
+luigi a. lugiato;carl o. weiss
+krzysztof  wódkiewicz;marlan o. scully
+daniel f. walls;t. brian kennedy
+samuel l. braunstein;gerard j. milburn
+ivan a. sellin;henrik  cederquist
+kwong t. chung;d. h. schneider
+victor v. flambaum;g. f. gribakin
+martin p. van exter;j. p. woerdman
+juan ignacio cirac;peter  zoller
+miguel  orszag;jános a. bergou
+lorenz s. cederbaum;peter  schmelcher
+daniel f. walls;r. l. graham
+c. l. cocke;m. p. stöckli
+michael s. pindzola;donald c. griffin
+jános a. bergou;mark s. hillery
+marcel  pont;r. m. potvliege
+s. n. zhu;jános a. bergou
+daniel f. walls;sze m. tan
+sten  salomonson;eva  lindroth
+gerard j. milburn;wolfgang p. schleich
+peter  beiersdorfer;albert l. osterheld
+henk c. stoof;paul  mandel
+joseph  nilsen;james h. scofield
+s. a. martin;alain  denis
+peter l. knight;bernard  piraux
+peter  beiersdorfer;mau hsiung chen
+henk c. stoof;boudewijn j. verhaar
+william h. goldstein;j. l. schwob
+c. w. gardiner;helmut  ritsch
+herbert  walther;wolfgang p. schleich
+jános a. bergou;luiz  davidovich
+marlan o. scully;g. l. oppo
+jános a. bergou;girish s. agarwal
+j. j. tulkki;scott b. whitfield
+don h. madison;ian e. mccarthy
+girish s. agarwal;marlan o. scully
+ewan m. wright;pierre  meystre
+peter  zoller;juan ignacio cirac
+wolfgang p. schleich;marlan o. scully
+nobuyuki  toshima;jörg m. eichler
+manfred o. krause;c. denise caldwell
+marlan o. scully;mark s. hillery
+helena  aksela;seppo  aksela
+helmut  ritsch;c. w. gardiner
+albert l. osterheld;peter  beiersdorfer
+helmut  ritsch;john c. cooper
+daniel f. walls;m. j. collett
+luis l. sánchez-soto;juan ignacio cirac
+carl o. weiss;luigi a. lugiato
+g. f. gribakin;victor v. flambaum
+jean  désesquelles;alain  denis
+john c. cooper;helmut  ritsch
+thomas f. gallagher;p. m. fu
+j. a. tanis;n. r. badnell
+daniel f. walls;helmut  ritsch
+c. p. bhalla;patrick  richard
+daniel f. walls;w. x. zhang
+c. p. bhalla;d. h. lee
+c. l. cocke;c. p. bhalla
+lorenzo j. curtis;robert w. dunford
+juan ignacio cirac;luis l. sánchez-soto
+joseph h. eberly;christopher c. gerry
+w. x. zhang;daniel f. walls
+mau hsiung chen;kennedy j. reed
+helmut  ritsch;daniel s. elliott
+marlan o. scully;miguel  orszag
+j. a. zakrzewski;maciej  lewenstein
+wolfgang p. schleich;daniel f. walls
+daniel f. walls;c. w. gardiner
+patrick  richard;c. p. bhalla
+don h. madison;igor  bray
+david j. wineland;d. j. heinzen
+d. j. heinzen;wayne m. itano
+murray j. holland;m. j. collett
+c. l. cocke;s. c. cheng
+john c. cooper;girish s. agarwal
+r. h. pratt;j. b. li
+jean  désesquelles;s. a. martin
+gerard j. milburn;howard m. wiseman
+fritz  haake;maciej  lewenstein
+peter  zoller;daniel s. elliott
+pierre  meystre;ewan m. wright
+donald c. griffin;michael s. pindzola
+igor  bray;don h. madison
+luiz  davidovich;mark s. hillery
+alain  denis;jean  désesquelles
+sheldon  datz;r. h. schuch
+john c. cooper;gernot  alber
+maxi  san miguel;n. b. abraham
+r. r. puri;girish s. agarwal
+c. denise caldwell;manfred o. krause
+marlan o. scully;jános a. bergou
+c. j. david lin;z. l. chen
+klaus  bartschat;don h. madison
+mark s. hillery;marlan o. scully
+william h. goldstein;p.  mandelbaum
+howard m. wiseman;gerard j. milburn
+szczepan  chelkowski;andré d. bandrauk
+c. w. gardiner;peter  zoller
+burkhard  langer;u. j. becker
+u. j. becker;burkhard  langer
+girish s. agarwal;jános a. bergou
+ian e. mccarthy;igor  bray
+scott b. whitfield;j. j. tulkki
+m. j. collett;daniel f. walls
+mark s. hillery;miguel  orszag
+miguel  orszag;luiz  davidovich
+wolfgang p. schleich;herbert  walther
+wolfgang p. schleich;gerard j. milburn
+bo  gao;anthony f. starace
+peter  zoller;daniel f. walls
+nicim  zagury;luiz  davidovich
+p.  mandelbaum;j. l. schwob
+daniel f. walls;fritz  haake
+masahito  ueda;nobuyuki  imoto
+herbert  walther;girish s. agarwal
+gerard j. milburn;samuel l. braunstein
+werner  vogel;l. . knöll
+luigi a. lugiato;maxi  san miguel
+maciej  lewenstein;j. a. zakrzewski
+fritz  haake;daniel f. walls
+wolfgang p. schleich;jonathan p. dowling
+wayne m. itano;david j. wineland
+john c. cooper;a. c. gallagher
+anthony f. starace;manfred o. krause
+massimo  moraldi;lothar  frommhold
+s. p. goldman;z. l. chen
+robin  shakeshaft;marcel  pont
+r. m. potvliege;robin  shakeshaft
+mau hsiung chen;kwong t. chung
+daniel f. walls;wolfgang p. schleich
+alfred  maquet;john c. cooper
+alain  denis;s. a. martin
+mau hsiung chen;peter  beiersdorfer
+jános a. bergou;miguel  orszag
+igor  bray;ian e. mccarthy
+m. p. stöckli;c. l. cocke
+anthony f. starace;bo  gao
+john c. cooper;peter  zoller
+mark s. hillery;jános a. bergou
+luigi a. lugiato;paul  mandel
+n. r. badnell;j. a. tanis
+seppo  aksela;helena  aksela
+girish s. agarwal;r. r. puri
+j. l. schwob;william h. goldstein
+p.  mandelbaum;william h. goldstein
+scott b. whitfield;c. denise caldwell
+jonathan p. dowling;wolfgang p. schleich
+d. h. lee;c. p. bhalla
+d. h. lee;patrick  richard
+yoshihisa  yamamoto;gunnar  björk
+boudewijn j. verhaar;paul  mandel
+peter  zoller;helmut  ritsch
+paul  mandel;boudewijn j. verhaar
+fritz  haake;sze m. tan
+d. j. heinzen;david j. wineland
+l. . knöll;werner  vogel
+n. r. badnell;michael s. pindzola
+daniel s. elliott;peter  zoller
+j. l. schwob;p.  mandelbaum
+h. gordon berry;d. h. schneider
+john c. cooper;alfred  maquet
+y. k. ho;a. k. bhatia
+martial  ducloy;gerard  nienhuis
+herbert  walther;marlan o. scully
+maxi  san miguel;luigi a. lugiato
+marlan o. scully;herbert  walther
+jonathan r. sapirstein;walter r. johnson
+daniel f. walls;peter  zoller
+don h. madison;klaus  bartschat
+luiz  davidovich;jános a. bergou
+mark s. hillery;luiz  davidovich
+anthony f. starace;c. denise caldwell
+wolfgang p. schleich;girish s. agarwal
+gilbert  grynberg;paul r. berman
+seppo  aksela;j. j. tulkki
+gernot  alber;john c. cooper
+donald c. griffin;n. r. badnell
+paul  mandel;luigi a. lugiato
+n. r. badnell;donald c. griffin
+s. a. martin;jean  désesquelles
+lothar  frommhold;massimo  moraldi
+robert w. boyd;alexander l. gaeta
+maciej  lewenstein;fritz  haake
+c. w. gardiner;daniel f. walls
+thomas h. bergeman;harold j. metcalf
+g. l. oppo;marlan o. scully
+robert g. parr;Á.  nagy
+daniel s. elliott;helmut  ritsch
+murray j. holland;daniel f. walls
+nobuyuki  imoto;masahito  ueda
+scott b. whitfield;manfred o. krause
+jörg m. eichler;nobuyuki  toshima
+lorenzo j. curtis;h. gordon berry
+c. denise caldwell;anthony f. starace
+p. m. fu;thomas f. gallagher
+h. gordon berry;robert w. dunford
+a. c. gallagher;john c. cooper
+jános a. bergou;s. n. zhu
+paul r. berman;gilbert  grynberg
+clyde w. mccurdy;thomas n. rescigno
+j. a. tanis;d. h. schneider
+james h. scofield;joseph  nilsen
+elliot p. kanter;d.  zajfman
+gunnar  björk;yoshihisa  yamamoto
+helena  aksela;j. j. tulkki
+z. l. chen;c. j. david lin
+craig m. savage;timothy c. ralph
+stephen r. lundeen;e. a. hessels
+john c. cooper;daniel s. elliott
+christopher c. gerry;joseph h. eberly
+gerard  nienhuis;martial  ducloy
+d. h. schneider;mau hsiung chen
+mau hsiung chen;d. h. schneider
+manfred o. krause;scott b. whitfield
+andré d. bandrauk;szczepan  chelkowski
+wim  hogervorst;wim  ubachs
+j. j. tulkki;seppo  aksela
+h. gordon berry;lorenzo j. curtis
+a. k. bhatia;y. k. ho
+jános a. bergou;marlan o. scully
+c. p. bhalla;c. l. cocke
+j. b. li;r. h. pratt
+harold j. metcalf;thomas h. bergeman
+patrick  richard;d. h. lee
+sze m. tan;daniel f. walls
+luiz  davidovich;marlan o. scully
+daniel s. elliott;john c. cooper
+n. b. abraham;maxi  san miguel
+girish s. agarwal;john c. cooper
+marlan o. scully;wolfgang p. schleich
+d.  zajfman;elliot p. kanter
+miguel  orszag;marlan o. scully
+m. j. collett;murray j. holland
+girish s. agarwal;herbert  walther
+marlan o. scully;krzysztof  wódkiewicz
+helmut  ritsch;peter  zoller
+helmut  ritsch;juan ignacio cirac
+paul  mandel;henk c. stoof
+peter  schmelcher;lorenz s. cederbaum
+Á.  nagy;robert g. parr
+luiz  davidovich;nicim  zagury
+kwong t. chung;mau hsiung chen
+girish s. agarwal;wolfgang p. schleich
+s. c. cheng;c. l. cocke
+sze m. tan;fritz  haake
+z. l. chen;s. p. goldman
+miguel  orszag;mark s. hillery
+d. h. schneider;kwong t. chung
+marcel  pont;robin  shakeshaft
+j. p. woerdman;martin p. van exter
+thomas n. rescigno;clyde w. mccurdy
+marlan o. scully;luiz  davidovich
+eva  lindroth;sten  salomonson
+bo  gao;john c. cooper
+wayne m. itano;d. j. heinzen
+luiz  davidovich;miguel  orszag
+d. h. schneider;j. a. tanis
+r. l. graham;w. x. zhang
+juan ignacio cirac;helmut  ritsch
+timothy c. ralph;craig m. savage
+david j. wineland;wayne m. itano
+henrik  cederquist;ivan a. sellin
+r. l. graham;daniel f. walls
+robert w. dunford;lorenzo j. curtis
+robin  shakeshaft;r. m. potvliege
+boudewijn j. verhaar;henk c. stoof
+ian e. mccarthy;don h. madison

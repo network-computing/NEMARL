@@ -1,0 +1,4 @@
+dataset_folder,data_files,N_initial,E_initial,"best_params(add_l,dlt_l,add_t,dlt_t)",best_energy,E_diff_norm,pass(<=10%),elapsed_sec
+PRB_1980-1989,"['PRB_network1980-1981.gexf', 'network1980-1981.gexf', 'network1982-1983.gexf', 'network1984-1985.gexf', 'network1986-1987.gexf']",277,246,"(7, 12, 0.037, 0.861)",2.807762,2.807762,FAIL,15463.02
+PRB_1980-1989,"['PRB_network1980-1981.gexf', 'network1980-1981.gexf', 'network1982-1983.gexf', 'network1984-1985.gexf', 'network1986-1987.gexf']",277,246,"(19, 10, 0.046, 0.98)",2.601083,2.601083,FAIL,21873.57
+PRB_1980-1989,"['PRB_network1980-1981.gexf', 'network1980-1981.gexf', 'network1982-1983.gexf', 'network1984-1985.gexf', 'network1986-1987.gexf']",277,246,"(10, 12, 0.0, 0.98)",0.698556,0.698556,FAIL,31523.09

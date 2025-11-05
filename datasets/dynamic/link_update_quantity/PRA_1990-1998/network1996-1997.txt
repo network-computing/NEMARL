@@ -1,0 +1,360 @@
+helena  aksela;svante  svensson
+m. suhail zubairy;wolfgang p. schleich
+c. denise caldwell;scott b. whitfield
+j. j. tulkki;helena  aksela
+robert w. dunford;h. gordon berry
+bernard  piraux;marcel  pont
+peter  beiersdorfer;james h. scofield
+r. h. schuch;sheldon  datz
+keith  burnett;peter l. knight
+paul  mandel;gilbert  grynberg
+y. l. zhu;min  xiao
+daniel f. walls;gerard j. milburn
+wim  ubachs;wim  hogervorst
+f. j. robicheaux;michael s. pindzola
+kennedy j. reed;mau hsiung chen
+luigi a. lugiato;g. l. oppo
+y. h. shih;paul g. kwiat
+p.  lambropoulos;herbert  walther
+alexander l. gaeta;girish s. agarwal
+mineo  kimura;isao  shimamura
+michael s. pindzola;n. r. badnell
+alexander l. gaeta;robert w. boyd
+y. d. wang;c. l. cocke
+peter  zoller;c. w. gardiner
+peter l. knight;mark s. hillery
+e. a. hessels;stephen r. lundeen
+marlan o. scully;m. suhail zubairy
+m. j. collett;a. s. parkins
+hans  Ågren;helena  aksela
+u. j. becker;scott b. whitfield
+robert w. dunford;s. c. cheng
+m. suhail zubairy;s. n. zhu
+gilbert  grynberg;paul  mandel
+jonathan r. sapirstein;k. t. cheng
+victor v. flambaum;g. f. gribakin
+juan ignacio cirac;peter  zoller
+martin p. van exter;j. p. woerdman
+alfred  maquet;peter l. knight
+peter  zoller;murray j. holland
+chris h. greene;michael  domke
+martin p. van exter;gerard  nienhuis
+c. l. cocke;e. c. montenegro
+lorenz s. cederbaum;peter  schmelcher
+s. n. zhu;m. suhail zubairy
+c. j. david lin;chris h. greene
+k. t. cheng;walter r. johnson
+c. l. cocke;m. p. stöckli
+michael s. pindzola;donald c. griffin
+boudewijn j. verhaar;d. j. heinzen
+xi guo li;p. m. fu
+howard m. wiseman;daniel f. walls
+david r. schultz;michael s. pindzola
+r. h. schuch;mau hsiung chen
+jorge e. miraglia;c. r. garibotti
+daniel f. walls;sze m. tan
+peter  beiersdorfer;albert l. osterheld
+paul s. julienne;k. a. suominen
+s. a. martin;alain  denis
+juan ignacio cirac;c. w. gardiner
+a. c. gallagher;j. h. guo
+peter  beiersdorfer;mau hsiung chen
+william h. goldstein;j. l. schwob
+herbert  walther;wolfgang p. schleich
+james h. scofield;peter  beiersdorfer
+armin  scrinzi;bernard  piraux
+chris h. greene;c. j. david lin
+j. j. tulkki;scott b. whitfield
+daniel f. walls;a. s. parkins
+peter  zoller;juan ignacio cirac
+chris h. greene;anthony f. starace
+wolfgang p. schleich;marlan o. scully
+manfred o. krause;c. denise caldwell
+s. n. zhu;marlan o. scully
+daniel f. walls;howard m. wiseman
+helena  aksela;seppo  aksela
+seppo  aksela;svante  svensson
+girish s. agarwal;alexander l. gaeta
+peter  zoller;keith  burnett
+j. j. tulkki;burkhard  langer
+albert l. osterheld;peter  beiersdorfer
+daniel f. walls;m. j. collett
+b.  dubetsky;paul r. berman
+g. f. gribakin;victor v. flambaum
+herbert  walther;p.  lambropoulos
+svante  svensson;helena  aksela
+jean  désesquelles;alain  denis
+e. c. montenegro;y. d. wang
+c. p. bhalla;e. c. montenegro
+c. w. gardiner;murray j. holland
+zbigniew  ficek;s. k. swain
+gerard j. milburn;daniel f. walls
+maciej  lewenstein;juan ignacio cirac
+j. a. tanis;n. r. badnell
+y. d. wang;m. p. stöckli
+ennio  arimondo;helmut  ritsch
+paul r. berman;b.  dubetsky
+c. p. bhalla;patrick  richard
+c. j. david lin;e. c. montenegro
+morton h. rubin;y. h. shih
+marlan o. scully;s. n. zhu
+kennedy j. reed;peter  beiersdorfer
+lorenzo j. curtis;robert w. dunford
+ewan m. wright;daniel f. walls
+alex  dalgarno;g. f. drake
+mau hsiung chen;kennedy j. reed
+chris h. greene;günter  kaindl
+y. d. wang;patrick  richard
+scott b. whitfield;burkhard  langer
+marcel  pont;bernard  piraux
+c. r. garibotti;jorge e. miraglia
+elliot p. kanter;h. gordon berry
+sze m. tan;m. j. collett
+igor  bray;dmitry v. fursa
+k. a. suominen;paul s. julienne
+paul s. julienne;keith  burnett
+n. r. badnell;mau hsiung chen
+sze m. tan;howard m. wiseman
+patrick  richard;c. p. bhalla
+ramon  vilaseca;n. b. abraham
+keith  burnett;peter  zoller
+h. p. winter;n.  stolterfoht
+david j. wineland;d. j. heinzen
+m. j. collett;sze m. tan
+d. j. heinzen;wayne m. itano
+igor  bray;klaus  bartschat
+y. d. wang;c. j. david lin
+m. j. collett;howard m. wiseman
+j. h. guo;john c. cooper
+robert w. boyd;girish s. agarwal
+murray j. holland;juan ignacio cirac
+jean  désesquelles;s. a. martin
+r. h. schuch;eva  lindroth
+j. j. tulkki;u. j. becker
+donald c. griffin;michael s. pindzola
+alain  denis;jean  désesquelles
+sheldon  datz;r. h. schuch
+william h. goldstein;albert l. osterheld
+r. r. puri;girish s. agarwal
+gerard  nienhuis;martin p. van exter
+c. denise caldwell;manfred o. krause
+m. j. collett;ewan m. wright
+gerard  nienhuis;j. p. woerdman
+c. j. david lin;z. l. chen
+s. c. cheng;lorenzo j. curtis
+william h. goldstein;p.  mandelbaum
+murray j. holland;peter  zoller
+k. t. cheng;mau hsiung chen
+keith  burnett;murray j. holland
+h. gordon berry;elliot p. kanter
+szczepan  chelkowski;andré d. bandrauk
+c. w. gardiner;peter  zoller
+c. j. david lin;patrick  richard
+k. a. suominen;keith  burnett
+anna  sanpera;keith  burnett
+burkhard  langer;u. j. becker
+bernard  piraux;robin  shakeshaft
+u. j. becker;burkhard  langer
+albert l. osterheld;william h. goldstein
+jonathan p. dowling;joseph w. haus
+m. j. collett;daniel f. walls
+scott b. whitfield;j. j. tulkki
+wolfgang p. schleich;herbert  walther
+p. m. fu;xi guo li
+ennio  arimondo;paul s. julienne
+s. k. swain;zbigniew  ficek
+paul s. julienne;ennio  arimondo
+c. l. cocke;sheldon  datz
+john c. cooper;j. h. guo
+p.  mandelbaum;j. l. schwob
+masahito  ueda;nobuyuki  imoto
+herbert  walther;girish s. agarwal
+eva  lindroth;r. h. schuch
+gerard j. milburn;ewan m. wright
+g. l. oppo;stephen m. barnett
+michael  domke;günter  kaindl
+keith  burnett;anna  sanpera
+elliot p. kanter;s. c. cheng
+john c. cooper;a. c. gallagher
+wayne m. itano;david j. wineland
+r. h. schuch;n.  stolterfoht
+daniel f. walls;ewan m. wright
+theodor w. hänsch;massimo  inguscio
+peter  beiersdorfer;kennedy j. reed
+s. c. cheng;h. gordon berry
+murray j. holland;john c. cooper
+lorenzo j. curtis;s. c. cheng
+robin  shakeshaft;marcel  pont
+keith  burnett;c. w. gardiner
+ennio  arimondo;j. h. guo
+massimo  inguscio;theodor w. hänsch
+alain  denis;s. a. martin
+mau hsiung chen;peter  beiersdorfer
+n. r. badnell;r. h. schuch
+ewan m. wright;sze m. tan
+patrick  richard;c. l. cocke
+m. p. stöckli;c. l. cocke
+mau hsiung chen;n. r. badnell
+kwong t. chung;r. h. schuch
+j. h. guo;ennio  arimondo
+wolfgang p. schleich;m. suhail zubairy
+howard m. wiseman;sze m. tan
+keith  burnett;juan ignacio cirac
+g. l. oppo;luigi a. lugiato
+t.  andersen;kwong t. chung
+n. r. badnell;j. a. tanis
+seppo  aksela;helena  aksela
+girish s. agarwal;r. r. puri
+j. l. schwob;william h. goldstein
+murray j. holland;c. w. gardiner
+m. p. stöckli;y. d. wang
+klaus m. gheri;helmut  ritsch
+p.  mandelbaum;william h. goldstein
+scott b. whitfield;c. denise caldwell
+j. h. guo;a. c. gallagher
+peter l. knight;alfred  maquet
+d. j. heinzen;boudewijn j. verhaar
+f. j. robicheaux;n. r. badnell
+yoshihisa  yamamoto;gunnar  björk
+peter  zoller;maciej  lewenstein
+g. f. drake;alex  dalgarno
+s. c. cheng;robert w. dunford
+svante  svensson;hans  Ågren
+joachim  burgdörfer;h. p. winter
+hans  Ågren;seppo  aksela
+d. j. heinzen;david j. wineland
+burkhard  langer;scott b. whitfield
+n. r. badnell;michael s. pindzola
+c. w. gardiner;keith  burnett
+andreas  görling;m. g. levy
+j. l. schwob;p.  mandelbaum
+stephen m. barnett;luigi a. lugiato
+maciej  lewenstein;peter  zoller
+y. h. shih;morton h. rubin
+anthony f. starace;chris h. greene
+elliot p. kanter;lorenzo j. curtis
+herbert  walther;marlan o. scully
+patrick  richard;c. j. david lin
+marlan o. scully;herbert  walther
+hans  Ågren;svante  svensson
+ewan m. wright;m. j. collett
+klaus  bartschat;igor  bray
+seppo  aksela;j. j. tulkki
+john c. cooper;murray j. holland
+helena  aksela;hans  Ågren
+donald c. griffin;n. r. badnell
+n. r. badnell;donald c. griffin
+s. a. martin;jean  désesquelles
+n.  stolterfoht;r. h. schuch
+robert w. boyd;alexander l. gaeta
+ivan a. sellin;u. j. becker
+murray j. holland;keith  burnett
+joseph w. haus;jonathan p. dowling
+n.  stolterfoht;h. p. winter
+thomas h. bergeman;harold j. metcalf
+helmut  ritsch;klaus m. gheri
+c. l. cocke;c. j. david lin
+ewan m. wright;gerard j. milburn
+robert g. parr;Á.  nagy
+david j. pegg;d. h. lee
+keith  burnett;k. a. suominen
+m. suhail zubairy;marlan o. scully
+c. w. gardiner;juan ignacio cirac
+kwong t. chung;t.  andersen
+nobuyuki  imoto;masahito  ueda
+u. j. becker;ivan a. sellin
+c. l. cocke;y. d. wang
+scott b. whitfield;manfred o. krause
+c. j. david lin;y. d. wang
+samuel l. braunstein;mark s. hillery
+lorenzo j. curtis;h. gordon berry
+r. h. schuch;n. r. badnell
+m. g. levy;andreas  görling
+mark s. hillery;samuel l. braunstein
+a. c. gallagher;john c. cooper
+günter  kaindl;chris h. greene
+h. gordon berry;robert w. dunford
+luigi a. lugiato;stephen m. barnett
+clyde w. mccurdy;thomas n. rescigno
+e. c. montenegro;c. j. david lin
+scott b. whitfield;u. j. becker
+elliot p. kanter;d.  zajfman
+a. s. parkins;sze m. tan
+mau hsiung chen;k. t. cheng
+girish s. agarwal;robert w. boyd
+burkhard  langer;j. j. tulkki
+james h. scofield;kennedy j. reed
+gunnar  björk;yoshihisa  yamamoto
+helena  aksela;j. j. tulkki
+peter l. knight;keith  burnett
+z. l. chen;c. j. david lin
+seppo  aksela;hans  Ågren
+u. j. becker;j. j. tulkki
+stephen r. lundeen;e. a. hessels
+keith  burnett;paul s. julienne
+michael s. pindzola;david r. schultz
+h. gordon berry;s. c. cheng
+juan ignacio cirac;keith  burnett
+manfred o. krause;scott b. whitfield
+juan ignacio cirac;maciej  lewenstein
+y. d. wang;e. c. montenegro
+andré d. bandrauk;szczepan  chelkowski
+c. l. cocke;patrick  richard
+wim  hogervorst;wim  ubachs
+j. j. tulkki;seppo  aksela
+kennedy j. reed;james h. scofield
+n. r. badnell;f. j. robicheaux
+svante  svensson;seppo  aksela
+h. gordon berry;lorenzo j. curtis
+mau hsiung chen;r. h. schuch
+harold j. metcalf;thomas h. bergeman
+j. p. woerdman;gerard  nienhuis
+helmut  ritsch;ennio  arimondo
+sze m. tan;daniel f. walls
+sze m. tan;a. s. parkins
+s. c. cheng;elliot p. kanter
+k. t. cheng;jonathan r. sapirstein
+sze m. tan;ewan m. wright
+marlan o. scully;wolfgang p. schleich
+d.  zajfman;elliot p. kanter
+e. c. montenegro;c. p. bhalla
+girish s. agarwal;herbert  walther
+d. h. lee;david j. pegg
+paul g. kwiat;y. h. shih
+juan ignacio cirac;murray j. holland
+a. s. parkins;daniel f. walls
+robert w. dunford;elliot p. kanter
+sheldon  datz;c. l. cocke
+a. s. parkins;m. j. collett
+patrick  richard;y. d. wang
+peter  schmelcher;lorenz s. cederbaum
+walter r. johnson;k. t. cheng
+Á.  nagy;robert g. parr
+e. c. montenegro;patrick  richard
+wilhelm  becker;maciej  lewenstein
+mark s. hillery;peter l. knight
+patrick  richard;e. c. montenegro
+günter  kaindl;michael  domke
+n. b. abraham;ramon  vilaseca
+c. j. david lin;c. l. cocke
+dmitry v. fursa;igor  bray
+lorenzo j. curtis;elliot p. kanter
+robin  shakeshaft;bernard  piraux
+marcel  pont;robin  shakeshaft
+michael s. pindzola;f. j. robicheaux
+r. h. schuch;kwong t. chung
+j. p. woerdman;martin p. van exter
+e. c. montenegro;c. l. cocke
+bernard  piraux;armin  scrinzi
+maciej  lewenstein;wilhelm  becker
+elliot p. kanter;robert w. dunford
+thomas n. rescigno;clyde w. mccurdy
+h. p. winter;joachim  burgdörfer
+isao  shimamura;mineo  kimura
+wayne m. itano;d. j. heinzen
+stephen m. barnett;g. l. oppo
+howard m. wiseman;m. j. collett
+min  xiao;y. l. zhu
+david j. wineland;wayne m. itano
+michael  domke;chris h. greene
+robert w. dunford;lorenzo j. curtis

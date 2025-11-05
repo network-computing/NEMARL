@@ -1,0 +1,2 @@
+dataset_folder,data_files,N_initial,E_initial,"best_params(add_l,dlt_l,add_t,dlt_t)",best_energy,E_diff_norm,pass(<=10%),elapsed_sec
+PRC_2000-2009,"['PRC_network2000-2001.gexf', 'network2002-2003.gexf', 'network2004-2005.gexf', 'network2006-2007.gexf']",37,34,"(9, 10, 0.109, 0.918)",13.639640,13.639640,FAIL,1000.44

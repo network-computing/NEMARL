@@ -1,0 +1,18 @@
+--- 日志开始于 Fri Sep 26 14:21:53 2025 ---
+--- 输出已重定向到 fig/parameters/dynamic2/PRB_1990-2000/output_log_20250926_142153.txt ---
+--- 脚本将处理的数据目录: fig/parameters/dynamic2/PRB_1990-2000 ---
+
+===== 数据集 PRB_1990-2000 =====
+[加载] ['fig/parameters/dynamic2/PRB_1990-2000/PRB_network1990-1991.gexf', 'fig/parameters/dynamic2/PRB_1990-2000/network1992-1993.gexf', 'fig/parameters/dynamic2/PRB_1990-2000/network1994-1995.gexf', 'fig/parameters/dynamic2/PRB_1990-2000/network1996-1997.gexf', 'fig/parameters/dynamic2/PRB_1990-2000/network1998-1999.gexf']
+
+===== 真实网络度差分 =====
+过渡 0: offset=-5, hist=[3, 7, 7, 20, 40, 99, 64, 20, 14, 9, 3, 9, 1]
+过渡 1: offset=-11, hist=[1, 0, 2, 0, 2, 3, 4, 9, 14, 29, 43, 91, 60, 16, 10, 5, 4, 1, 0, 1, 0, 1]
+过渡 2: offset=-10, hist=[2, 0, 0, 0, 2, 5, 4, 12, 28, 54, 90, 56, 19, 12, 1, 5, 5, 0, 1]
+过渡 3: offset=-10, hist=[1, 0, 0, 1, 1, 2, 6, 15, 24, 48, 111, 40, 23, 13, 3, 4, 2, 1, 1]
+[REAL] N_initial=296, E_initial=371, Num_snapshots=5
+[SA] 起点 1/2 开始: (5, 1, 0, 0.98)
+[ERROR] SA 过程中出错: PRB_1990-2000, 起点1 -> __init__() got an unexpected keyword argument 'tau'
+[SA] 起点 2/2 开始: (8, 3, 0.01, 0.95)
+[ERROR] SA 过程中出错: PRB_1990-2000, 起点2 -> __init__() got an unexpected keyword argument 'tau'
+[WARN] 数据集 PRB_1990-2000 没有得到有效结果，跳过写入。

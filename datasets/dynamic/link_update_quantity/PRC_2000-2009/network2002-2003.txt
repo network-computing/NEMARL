@@ -1,0 +1,110 @@
+m. p. carpenter;d.  seweryniak
+b. alex brown;r. o. nelson
+witold  nazarewicz;jacek  dobaczewski
+witold  nazarewicz;jonathan  engel
+r. v. jolos;g. g. adamian
+l. g. sobotka;william g. lynch
+n. v. antonenko;werner  scheid
+j. m. pearson;s.  goriely
+r. j. charity;jacek  dobaczewski
+n. v. zamfir;r. f. casten
+g. g. adamian;n. v. antonenko
+jacek  dobaczewski;d.  seweryniak
+william g. lynch;r. j. charity
+g. g. adamian;werner  scheid
+d.  seweryniak;r. j. charity
+u.  lombardo;nicolae  sandulescu
+william g. lynch;l. g. sobotka
+bing an li;sajal kumar pal
+peter  ring;d.  vretenar
+walter  greiner;horst  stöcker
+r. o. nelson;b. alex brown
+werner  scheid;g. g. adamian
+s.  goriely;j. m. pearson
+werner  scheid;r. v. jolos
+l. g. sobotka;r. j. charity
+r.  hertenberger;g.  graw
+r.  hertenberger;peter  mohr
+d. j. hinde;kouichi  hagino
+peter  mohr;g.  graw
+r. j. charity;d.  seweryniak
+amand  faessler;larry  zamick
+akito  arima;y. m. zhao
+g. a. lalazissis;irshad  ahmad
+nicolae  sandulescu;peter  schuck
+horst  stöcker;walter  greiner
+jorge g. hirsch;jerry p. draayer
+l. g. sobotka;m. betty tsang
+r. o. nelson;p. e. garrett
+g. g. adamian;r. v. jolos
+jacek  dobaczewski;ramon a. wyss
+r. v. jolos;werner  scheid
+peter  ring;g. a. lalazissis
+jonathan  engel;jacek  dobaczewski
+d.  seweryniak;jacek  dobaczewski
+p. e. garrett;b. alex brown
+r. j. charity;m. p. carpenter
+n. v. antonenko;g. g. adamian
+m. betty tsang;william g. lynch
+d. j. hinde;r. j. charity
+m. betty tsang;r. j. charity
+michele  viviani;walter  glöckle
+r. f. casten;n. v. zamfir
+m. betty tsang;l. g. sobotka
+george f. bertsch;henning  esbensen
+hiroyuki  sagawa;kouichi  hagino
+r. v. jolos;n. v. antonenko
+ch.  elster;walter  glöckle
+jerry p. draayer;jorge g. hirsch
+charles j. horowitz;jorge  piekarewicz
+p. e. garrett;r. o. nelson
+g. a. lalazissis;peter  ring
+d.  vretenar;g. a. lalazissis
+sajal kumar pal;bing an li
+nicolae  sandulescu;u.  lombardo
+walter  glöckle;ch.  elster
+d.  vretenar;peter  ring
+y. m. zhao;akito  arima
+norbert  pietralla;b. alex brown
+charles  gale;bing an li
+g.  graw;peter  mohr
+kouichi  hagino;george f. bertsch
+peter  schuck;nicolae  sandulescu
+irshad  ahmad;g. a. lalazissis
+george f. bertsch;kouichi  hagino
+werner  scheid;n. v. antonenko
+g.  graw;r.  hertenberger
+jacek  dobaczewski;m. p. carpenter
+jacek  dobaczewski;witold  nazarewicz
+r. j. charity;m. betty tsang
+william g. lynch;m. betty tsang
+n.  itagaki;kouichi  hagino
+peter  schuck;u.  lombardo
+henning  esbensen;george f. bertsch
+l. g. sobotka;d.  seweryniak
+ramon a. wyss;jacek  dobaczewski
+jorge  piekarewicz;charles j. horowitz
+r. j. charity;william g. lynch
+jonathan  engel;witold  nazarewicz
+bing an li;charles  gale
+r. j. charity;l. g. sobotka
+h.  witała;walter  glöckle
+g. a. lalazissis;d.  vretenar
+m. p. carpenter;r. j. charity
+kouichi  hagino;hiroyuki  sagawa
+walter  glöckle;h.  witała
+u.  lombardo;peter  schuck
+d.  seweryniak;l. g. sobotka
+kouichi  hagino;d. j. hinde
+peter  mohr;r.  hertenberger
+jacek  dobaczewski;r. j. charity
+jacek  dobaczewski;jonathan  engel
+b. alex brown;p. e. garrett
+r. j. charity;d. j. hinde
+kouichi  hagino;n.  itagaki
+n. v. antonenko;r. v. jolos
+larry  zamick;amand  faessler
+walter  glöckle;michele  viviani
+b. alex brown;norbert  pietralla
+m. p. carpenter;jacek  dobaczewski
+d.  seweryniak;m. p. carpenter

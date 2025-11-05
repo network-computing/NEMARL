@@ -1,0 +1,2 @@
+dataset_folder,data_files,N_initial,E_initial,"best_params(add_l,dlt_l,add_t,dlt_t)",best_energy,E_diff_norm,pass(<=10%),elapsed_sec
+PRA_1990-1998,"['network1990-1991.gexf', 'network1992-1993.gexf', 'network1994-1995.gexf', 'network1996-1997.gexf']",94,71,"(4, 3, 0.079, 0.917)",4.592199,4.592199,FAIL,2594.13

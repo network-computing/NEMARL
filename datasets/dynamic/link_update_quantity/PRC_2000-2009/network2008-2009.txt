@@ -1,0 +1,90 @@
+amand  faessler;herbert  müther
+jorge  piekarewicz;d.  vretenar
+g. a. lalazissis;peter  ring
+m. p. carpenter;d.  seweryniak
+d.  vretenar;g. a. lalazissis
+walter  glöckle;ch.  elster
+witold  nazarewicz;jacek  dobaczewski
+d.  vretenar;peter  ring
+l. g. sobotka;william g. lynch
+j. m. pearson;s.  goriely
+b. alex brown;george f. bertsch
+n. v. antonenko;werner  scheid
+josé m. arias;norbert  pietralla
+i. j. thompson;josé m. arias
+g. g. adamian;n. v. antonenko
+y. m. zhao;akito  arima
+william g. lynch;r. j. charity
+g. g. adamian;werner  scheid
+witold  nazarewicz;george f. bertsch
+robert e. tribble;l. g. sobotka
+d.  seweryniak;r. j. charity
+william g. lynch;l. g. sobotka
+norbert  pietralla;r. v. jolos
+d.  vretenar;jorge  piekarewicz
+robert e. tribble;r. j. charity
+peter  ring;d.  vretenar
+m. p. carpenter;l. g. sobotka
+werner  scheid;n. v. antonenko
+g.  graw;r.  hertenberger
+r. j. charity;m. betty tsang
+jacek  dobaczewski;witold  nazarewicz
+r.  hertenberger;p. e. garrett
+g.  graw;n. v. zamfir
+jonathan  engel;amand  faessler
+amand  faessler;jonathan  engel
+werner  scheid;g. g. adamian
+william g. lynch;m. betty tsang
+s.  goriely;j. m. pearson
+l. g. sobotka;r. j. charity
+l. g. sobotka;d.  seweryniak
+r.  hertenberger;g.  graw
+r. j. charity;robert e. tribble
+josé m. arias;i. j. thompson
+amand  faessler;horst  stöcker
+ch.  elster;h.  witała
+r. j. charity;d.  seweryniak
+d.  seweryniak;irshad  ahmad
+akito  arima;y. m. zhao
+george f. bertsch;b. alex brown
+r. j. charity;william g. lynch
+jonathan  engel;george f. bertsch
+herbert  müther;amand  faessler
+l. g. sobotka;robert e. tribble
+r. j. charity;l. g. sobotka
+l. g. sobotka;m. betty tsang
+franz  käppeler;peter  mohr
+r. o. nelson;p. e. garrett
+irshad  ahmad;d.  seweryniak
+h.  witała;walter  glöckle
+g. a. lalazissis;d.  vretenar
+m. p. carpenter;r. j. charity
+kouichi  hagino;hiroyuki  sagawa
+larry  zamick;norbert  pietralla
+walter  glöckle;h.  witała
+peter  ring;g. a. lalazissis
+peter  mohr;franz  käppeler
+r. v. jolos;norbert  pietralla
+d.  seweryniak;l. g. sobotka
+george f. bertsch;nicolae  sandulescu
+p. e. garrett;r.  hertenberger
+r. j. charity;m. p. carpenter
+n. v. antonenko;g. g. adamian
+n. v. zamfir;g.  graw
+m. betty tsang;william g. lynch
+norbert  pietralla;josé m. arias
+nicolae  sandulescu;george f. bertsch
+norbert  pietralla;larry  zamick
+m. betty tsang;r. j. charity
+zhen hua li;u.  lombardo
+u.  lombardo;zhen hua li
+m. betty tsang;l. g. sobotka
+george f. bertsch;witold  nazarewicz
+horst  stöcker;amand  faessler
+hiroyuki  sagawa;kouichi  hagino
+l. g. sobotka;m. p. carpenter
+ch.  elster;walter  glöckle
+h.  witała;ch.  elster
+george f. bertsch;jonathan  engel
+d.  seweryniak;m. p. carpenter
+p. e. garrett;r. o. nelson

@@ -1,0 +1,2 @@
+dataset_folder,data_files,N_initial,E_initial,"best_params(add_l,dlt_l,add_t,dlt_t)",best_energy,E_diff_norm,pass(<=10%),elapsed_sec
+PR_1955-1962,"['network1955-1956.gexf', 'network1957-1958.gexf', 'network1959-1960.gexf', 'network1961-1962.gexf']",113,73,"(8, 3, 0.06, 0.811)",3.197640,3.197640,FAIL,3478.43

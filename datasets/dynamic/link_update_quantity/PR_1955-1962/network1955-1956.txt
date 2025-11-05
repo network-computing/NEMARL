@@ -1,0 +1,722 @@
+wilson m. powell;william b. fowler
+elizabeth w. baker;gerhart  friedlander
+albert m. clogston;laurence r. walker
+frank  asaro;jack m. hollander
+lawrence c. biedenharn;roy m. thaler
+glenn t. seaborg;walter e. nervik
+brend t. matthias;philip w. anderson
+reinhard  oehme;marvin l. goldberger
+martin m. block;alan m. thorndike
+glenn t. seaborg;bernard g. harvey
+masataka  mizushima;chun c. lin
+peter g. bergmann;joel l. lebowitz
+paul r. fields;john r. huizenga
+benjamin  lax;herbert j. zeiger
+owen  chamberlain;clyde e. wiegand
+abraham  pais;murray  gell-mann
+albert a. caretto;james b. cumming
+j. m. steinberger;m. e. schwartz
+william b. fowler;wilson m. powell
+bernard t. feld;david m. ritson
+sulamith  goldhaber;frances m. smith
+burton j. moyer;bruce  cork
+charles j. gallagher;jack m. hollander
+john r. huizenga;james  wing
+leon m. lederman;william  chinowsky
+m. l. halbert;a.  zucker
+john r. huizenga;albert  ghiorso
+paul c. martin;c. s. wu
+r. g. johnson;o. e. johnson
+m. e. schwartz;n. p. samios
+joseph  weneser;gertrude  scharff-goldhaber
+richard m. bozorth;h. j. williams
+harry g. hicks;peter c. stevenson
+t. j. ypsilantis;robert d. tripp
+herbert  diamond;stanley g. thompson
+lawrence c. biedenharn;john p. schiffer
+john r. huizenga;glenn t. seaborg
+c. r. gossett;john p. schiffer
+e.  almqvist;d. a. bromley
+john r. huizenga;j. e. gindler
+paul  goldhammer;eugene  feenberg
+donald harvey stork;leroy t. kerth
+laura m. roth;herbert j. zeiger
+john o. rasmussen;jack m. hollander
+rufus h. ritchie;jacob  neufeld
+herbert  diamond;john r. huizenga
+r. d. birkhoff;rufus h. ritchie
+john h. gibbons;richard l. macklin
+r. m. sternheimer;martin m. block
+martin a. pomerantz;romas a. shatas
+i.  halpern;a. w. fairhall
+david  pines;charles p. slichter
+s.  taylor;jay  orear
+i.  perlman;john p. hummel
+s. n. foner;benjamin  lax
+g. m. temmer;ralph p. hudson
+fredrik  zachariasen;sidney d. drell
+h. w. wyld;s. b. treiman
+roy j. glauber;paul c. martin
+charles p. slichter;david  pines
+eugene  feenberg;mark  bolsterli
+a. e. litherland;d. a. bromley
+g. a. demars;h.  statz
+william  chinowsky;j. m. steinberger
+walter e. nervik;david r. nethaway
+g. c. phillips;c. w. reich
+f. w. prosser;lawrence c. biedenharn
+albert a. caretto;elizabeth w. baker
+william a. nierenberg;henry b. silsbee
+william e. stephens;d. h. wilkinson
+d. h. wilkinson;william e. stephens
+benjamin  lax;laura m. roth
+gerhart  friedlander;james b. cumming
+walter  kohn;j. m. luttinger
+w. g. smith;r. l. robinson
+harvey  marshak;john h. gibbons
+james c. phillips;joseph  callaway
+earle c. fowler;martin m. block
+lawrence m. langer;j. h. hamilton
+stanley g. thompson;glenn t. seaborg
+eugene  eichler;grover d. o'kelley
+j. j. lambe;david l. dexter
+frances m. smith;sulamith  goldhaber
+clyde e. wiegand;owen  chamberlain
+shimon  ofer;s. g. cohen
+morrel h. cohen;james c. phillips
+william d. walker;r. d. hill
+harold w. lewis;philip w. anderson
+t. w. bonner;r. d. bent
+jack  sandweiss;leroy t. kerth
+j. robert schrieffer;john  bardeen
+albert m. clogston;harry  suhl
+john p. schiffer;robert h. davis
+j. t. eisinger;c. r. gossett
+fred l. ribe;john e. brolley
+masataka  mizushima;walter  gordy
+s. g. cohen;shimon  ofer
+robert w. birge;leroy t. kerth
+john d. fox;peter  axel
+joseph s. levinger;m. l. rustgi
+henry b. silsbee;william a. nierenberg
+jay  orear;s.  taylor
+louis  rosen;leona  stewart
+frank  asaro;stanley g. thompson
+bruce  cork;william a. wenzel
+lawrence c. biedenharn;f. w. prosser
+s.  raboy;john r. huizenga
+roy m. thaler;lawrence c. biedenharn
+lester m. corliss;julius m. hastings
+lawrence  cranberg;louis  rosen
+i.  halpern;j. t. eisinger
+rufus h. ritchie;r. d. birkhoff
+c. s. wu;brice m. rustad
+sanborn c. brown;george j. schulz
+r. e. behrends;alberto  sirlin
+john o. rasmussen;benjamin  segall
+elizabeth w. baker;albert a. caretto
+aihud  pevsner;anatole m. shapiro
+morrel h. cohen;william p. dumke
+james s. koehler;a.  sosin
+j.  hudis;james b. cumming
+john e. brolley;louis  rosen
+gerson  goldhaber;david m. ritson
+stanley g. thompson;i.  perlman
+frances m. smith;gerson  goldhaber
+vincent  jaccarino;stanley  geschwind
+d. a. bromley;nathan s. wall
+glenn t. seaborg;peter c. stevenson
+aihud  pevsner;e. o. salant
+bertram n. brockhouse;a. t. stewart
+kenneth m. watson;keith a. brueckner
+harvey b. willard;joe keagy bair
+jay  orear;t. d. lee
+m. e. bunker;j. w. starner
+richard f. wallis;robert c. herman
+myron l. good;frank s. crawford
+leon n. cooper;james  rainwater
+james  rainwater;aihud  pevsner
+r. d. hill;william d. walker
+j. t. eisinger;i.  halpern
+d. geoffrey ravenhall;robert  hofstadter
+sulamith  goldhaber;clyde e. wiegand
+david m. ritson;aihud  pevsner
+herbert j. zeiger;benjamin  lax
+hans o. cohn;harvey b. willard
+d. e. mapother;r. r. hake
+j. t. eisinger;t. w. bonner
+a.  de-shalit;harry j. lipkin
+o. c. kistner;a. z. schwarzschild
+roman  smoluchowski;sergio  debenedetti
+robert  hofstadter;d. geoffrey ravenhall
+john  bardeen;david  pines
+bruce j. dropesky;raymond k. sheline
+j. p. remeika;brend t. matthias
+brend t. matthias;harold w. lewis
+ernest  corenzwit;brend t. matthias
+norman  elliott;lester m. corliss
+nathan s. wall;d. a. bromley
+joseph  callaway;william p. dumke
+stanley g. thompson;frank  asaro
+william b. fowler;alan m. thorndike
+r. d. hill;john c. wheatley
+franz r. metzger;charles p. swann
+philip w. anderson;harry  suhl
+henry l. kraybill;earle c. fowler
+brice m. rustad;a. z. schwarzschild
+roy j. glauber;c. s. wu
+walter  gordy;masataka  mizushima
+arthur f. kip;charles  kittel
+m. lynn stevenson;myron l. good
+john r. huizenga;paul r. fields
+j.  hudis;gerhart  friedlander
+herbert  diamond;albert  ghiorso
+a.  zucker;thomas h. handley
+m. h. hull;g.  breit
+sidney d. drell;fredrik  zachariasen
+charles p. swann;franz r. metzger
+c. w. reich;g. c. phillips
+dan w. miller;v. k. rasmussen
+harold k. ticho;frances m. smith
+h.  statz;g. a. demars
+bernard g. harvey;robert v. pyle
+peter c. stevenson;glenn t. seaborg
+joseph  callaway;morrel h. cohen
+benjamin  segall;john o. rasmussen
+milo b. sampson;dan w. miller
+john e. brolley;m. e. bunker
+harold w. lewis;e. m. bernstein
+a.  sperduto;w. w. buechner
+william b. fowler;martin m. block
+paul r. fields;herbert  diamond
+leona  stewart;louis  rosen
+ray  pepinsky;gen  shirane
+william d. walker;david m. ritson
+joel l. lebowitz;peter g. bergmann
+owen  chamberlain;t. j. ypsilantis
+frank s. crawford;m. lynn stevenson
+m. l. wiedenbeck;m. g. stewart
+aihud  pevsner;seymour j. lindenbaum
+peter c. stevenson;walter e. nervik
+gerhart  friedlander;albert a. caretto
+a. w. fairhall;i.  halpern
+burton j. moyer;william a. wenzel
+gen  shirane;b. c. frazer
+david m. ritson;anatole m. shapiro
+r. m. walker;henry l. kraybill
+r. l. robinson;j. h. hamilton
+louis  goldstein;jay gregory dash
+herbert  diamond;paul r. fields
+john p. schiffer;g. c. phillips
+j. e. gindler;john r. huizenga
+benjamin  lax;s. n. foner
+jack m. hollander;j. w. mihelich
+albert a. caretto;j.  hudis
+david  pines;john  bardeen
+john p. schiffer;lawrence c. biedenharn
+earle c. fowler;alan m. thorndike
+earle c. fowler;henry l. kraybill
+john e. brolley;richard l. henkel
+stanley g. thompson;bernard g. harvey
+t. j. ypsilantis;clyde e. wiegand
+jack  leitner;n. p. samios
+anatole m. shapiro;david m. ritson
+clifford c. klick;j. j. lambe
+robert d. tripp;clyde e. wiegand
+robert e. marshak;e. g. sudarshan
+frank  asaro;bernard g. harvey
+d. a. bromley;e.  almqvist
+lester m. corliss;bertram n. brockhouse
+charles j. goebel;malvin a. ruderman
+lawrence m. langer;r. g. johnson
+anatole m. shapiro;aihud  pevsner
+herbert j. zeiger;laura m. roth
+clifford c. klick;david l. dexter
+winslow f. baker;james  rainwater
+n. p. samios;j. m. steinberger
+r. g. helmer;d. w. martin
+walter e. nervik;peter c. stevenson
+norman  elliott;julius m. hastings
+sam  legvold;frank h. spedding
+a. t. stewart;bertram n. brockhouse
+herbert j. zeiger;richard n. dexter
+r. l. cool;james w. cronin
+w. g. smith;john o. rasmussen
+douglas m. van patter;charles p. swann
+richard h. capps;wendell g. holladay
+john r. huizenga;charles d. coryell
+sulamith  goldhaber;gerson  goldhaber
+raymond k. sheline;noah r. johnson
+j.  hudis;elizabeth w. baker
+d. h. wilkinson;david e. alburger
+r. m. sternheimer;henry m. foley
+clyde e. wiegand;gerson  goldhaber
+david l. dexter;robert s. knox
+frank  asaro;john p. hummel
+francis e. low;geoffrey f. chew
+benjamin  lax;richard n. dexter
+david l. dexter;clifford c. klick
+c. r. gossett;j. t. eisinger
+a. w. sunyar;david e. alburger
+seymour j. lindenbaum;james  rainwater
+laura m. roth;benjamin  lax
+o. e. johnson;r. g. johnson
+paul r. fields;albert  ghiorso
+gerhart  friedlander;elizabeth w. baker
+jack  sandweiss;donald harvey stork
+jay gregory dash;r. dean taylor
+gertrude  scharff-goldhaber;joseph  weneser
+thomas h. handley;a.  zucker
+marvin l. goldberger;reinhard  oehme
+c. s. wu;roy j. glauber
+james b. cumming;albert a. caretto
+henry l. kraybill;richard s. preston
+frances m. smith;walter h. barkas
+j. w. starner;m. e. bunker
+ralph p. hudson;g. m. temmer
+william m. visscher;richard a. ferrell
+francis e. low;david  pines
+t. j. ypsilantis;owen  chamberlain
+f. w. prosser;ralph w. krone
+julius m. hastings;bertram n. brockhouse
+myron l. good;m. lynn stevenson
+f. k. mcgowan;p. h. stelson
+milo b. sampson;v. k. rasmussen
+roy m. thaler;john l. gammel
+owen  chamberlain;sulamith  goldhaber
+vernon w. hughes;c. s. wu
+p. h. stelson;f. k. mcgowan
+robert d. tripp;t. j. ypsilantis
+frank h. spedding;sam  legvold
+aihud  pevsner;david m. ritson
+robert h. davis;f. w. prosser
+t. w. bonner;j. t. eisinger
+henry m. foley;r. m. sternheimer
+walter h. barkas;harold k. ticho
+charles p. swann;douglas m. van patter
+john p. hummel;frank  asaro
+william r. hosler;h. r. frederikse
+chen ning yang;t. d. lee
+lester m. corliss;norman  elliott
+l. peter gold;laura m. roth
+john o. rasmussen;charles j. gallagher
+wolfgang  kaiser;hsu yun fan
+earle c. fowler;richard s. preston
+m. e. schwartz;jack  leitner
+g. w. hull;theodore h. geballe
+a. e. litherland;e.  almqvist
+m. e. bunker;john e. brolley
+i.  perlman;stanley g. thompson
+david m. ritson;e. o. salant
+a.  zucker;l. d. wyly
+sidney d. drell;k. f. huang
+elizabeth w. baker;james b. cumming
+stanley g. thompson;paul r. fields
+ray  pepinsky;b. c. frazer
+george e. owen;leon  madansky
+r. d. hill;e. o. salant
+philip w. anderson;laurence r. walker
+seymour j. lindenbaum;aihud  pevsner
+n. p. samios;m. e. schwartz
+e.  almqvist;a. e. litherland
+stanley  bashkin;r. r. carlson
+r. d. hill;david m. ritson
+w. g. smith;j. h. hamilton
+richard l. henkel;m. e. bunker
+m. p. strandberg;michael  tinkham
+james b. cumming;gerhart  friedlander
+j.  hudis;albert a. caretto
+albert  ghiorso;herbert  diamond
+j. m. steinberger;jack  leitner
+r. g. shulman;vincent  jaccarino
+r. d. hill;aihud  pevsner
+stanley g. thompson;herbert  diamond
+robert  novick;edgar  lipworth
+r. m. walker;earle c. fowler
+w. g. smith;jack m. hollander
+raymond k. sheline;bruce j. dropesky
+harold k. ticho;walter h. barkas
+donald harvey stork;jack  sandweiss
+walter e. nervik;harry g. hicks
+mark  bolsterli;eugene  feenberg
+alan m. thorndike;earle c. fowler
+j. f. dillon;vincent  jaccarino
+david m. ritson;sulamith  goldhaber
+hans o. cohn;joe keagy bair
+william g. spitzer;hsu yun fan
+edgar  lipworth;robert  novick
+jack m. hollander;charles j. gallagher
+elizabeth w. baker;j. d. knight
+sulamith  goldhaber;owen  chamberlain
+joseph  callaway;james c. phillips
+j. m. steinberger;n. p. samios
+earle c. fowler;r. m. walker
+julius m. hastings;lester m. corliss
+j. t. eisinger;a. w. fairhall
+wendell g. holladay;richard h. capps
+d. w. martin;r. g. helmer
+laurence r. walker;albert m. clogston
+david e. alburger;d. h. wilkinson
+kenneth m. watson;john l. gammel
+albert  ghiorso;john r. huizenga
+brice m. rustad;o. c. kistner
+harry g. hicks;walter e. nervik
+jack  leitner;m. e. schwartz
+a. e. litherland;h. e. gove
+yoshiharu  okaya;ray  pepinsky
+james  rainwater;winslow f. baker
+hsu yun fan;wolfgang  kaiser
+andrew m. sessler;henry m. foley
+morrel h. cohen;joseph  callaway
+richard l. macklin;john h. gibbons
+charles d. coryell;john r. huizenga
+h. j. williams;richard m. bozorth
+lawrence m. langer;o. e. johnson
+d. a. bromley;a. e. litherland
+john r. huizenga;herbert  diamond
+sulamith  goldhaber;david m. ritson
+clyde e. wiegand;sulamith  goldhaber
+s. b. burson;d. w. martin
+gerhart  friedlander;j.  hudis
+frank  asaro;w. g. smith
+leon  madansky;george e. owen
+g. c. phillips;j. t. eisinger
+robert h. davis;john p. schiffer
+m. e. schwartz;j. m. steinberger
+joe keagy bair;hans o. cohn
+albert  ghiorso;paul r. fields
+james c. phillips;william p. dumke
+philip w. anderson;harold w. lewis
+harry  suhl;philip w. anderson
+i.  perlman;frank  asaro
+h. r. frederikse;william r. hosler
+d. a. bromley;h. e. gove
+gerson  goldhaber;frances m. smith
+thomas h. handley;w. s. lyon
+james b. cumming;elizabeth w. baker
+paul r. fields;stanley g. thompson
+walter h. barkas;frances m. smith
+john r. huizenga;s.  raboy
+sidney a. bludman;malvin a. ruderman
+loyal  durand;m. h. hull
+w. s. lyon;thomas h. handley
+paul c. martin;roy j. glauber
+b. p. nigam;leslie l. foldy
+donald j. hughes;h.  palevsky
+john h. gibbons;h. w. schmitt
+d. w. engelkemeir;paul r. fields
+c. s. wu;paul c. martin
+francis e. low;a. p. klein
+paul r. fields;alan b. smith
+glenn t. seaborg;albert  ghiorso
+fredrik  zachariasen;r. e. cutkosky
+chun c. lin;masataka  mizushima
+c. e. mandeville;douglas m. van patter
+c. r. gossett;g. c. phillips
+william d. walker;e. o. salant
+d. w. martin;s. b. burson
+henry b. silsbee;howard a. shugart
+john p. hummel;i.  perlman
+richard l. henkel;j. w. starner
+james b. cumming;j.  hudis
+r. dean taylor;jay gregory dash
+h. e. gove;e.  almqvist
+william p. dumke;morrel h. cohen
+gerson  goldhaber;aihud  pevsner
+ralph w. krone;f. w. prosser
+frances m. smith;harold k. ticho
+e. o. salant;david m. ritson
+philip w. anderson;brend t. matthias
+thomas h. handley;m. l. halbert
+m. lynn stevenson;frank s. crawford
+romas a. shatas;martin a. pomerantz
+michael  tinkham;m. p. strandberg
+t. d. lee;ernest m. henley
+james  wing;john r. huizenga
+robert c. herman;richard f. wallis
+louis  rosen;john e. brolley
+e. o. wollan;w. c. koehler
+j. w. starner;j. d. knight
+john r. huizenga;stanley g. thompson
+brice m. rustad;c. s. wu
+jacob  neufeld;rufus h. ritchie
+richard m. bozorth;john k. galt
+laurence r. walker;philip w. anderson
+john k. galt;richard m. bozorth
+charles p. swann;c. e. mandeville
+g.  breit;lawrence c. biedenharn
+john h. gibbons;harvey  marshak
+r. r. carlson;stanley  bashkin
+hans  meissner;george e. owen
+bernard l. cohen;thomas h. handley
+clyde e. wiegand;t. j. ypsilantis
+john o. rasmussen;w. g. smith
+b. p. nigam;h. pierre noyes
+charles  kittel;arthur f. kip
+robert h. davis;t. w. bonner
+alberto  sirlin;r. e. behrends
+bertram n. brockhouse;julius m. hastings
+martin m. block;r. m. sternheimer
+a.  zucker;m. l. halbert
+bernard  kramer;hartmut p. kallmann
+h. w. schmitt;richard l. macklin
+noah r. johnson;raymond k. sheline
+f. w. prosser;john p. schiffer
+john a. mcintyre;robert  hofstadter
+keith a. brueckner;kenneth m. watson
+william d. walker;aihud  pevsner
+lawrence m. langer;r. l. robinson
+j. d. knight;elizabeth w. baker
+m. e. bunker;richard l. henkel
+f. w. prosser;robert h. davis
+a. z. schwarzschild;brice m. rustad
+hsu yun fan;william g. spitzer
+j. h. hamilton;lawrence m. langer
+malvin a. ruderman;sidney a. bludman
+frank s. crawford;myron l. good
+arthur f. kip;gene  dresselhaus
+william p. dumke;james c. phillips
+j. f. dillon;stanley  geschwind
+michael a. peshkin;laurie m. brown
+frank  asaro;i.  perlman
+bertram n. brockhouse;lester m. corliss
+lawrence m. langer;w. g. smith
+william b. fowler;earle c. fowler
+c. e. mandeville;charles p. swann
+f. w. prosser;t. w. bonner
+glenn t. seaborg;john r. huizenga
+leroy t. kerth;robert w. birge
+francis m. pipkin;donald r. hamilton
+r. d. lawson;hans  mark
+n. p. samios;jack  leitner
+henry l. kraybill;r. m. walker
+bernard g. harvey;frank  asaro
+r. d. bent;t. w. bonner
+t. w. bonner;f. w. prosser
+albert a. caretto;gerhart  friedlander
+richard l. henkel;john e. brolley
+howard a. shugart;henry b. silsbee
+charles j. gallagher;w. g. smith
+g.  breit;m. h. hull
+john p. schiffer;f. w. prosser
+murray  gell-mann;abraham  pais
+dan w. miller;milo b. sampson
+james c. phillips;morrel h. cohen
+robert s. knox;david l. dexter
+lawrence  cranberg;richard l. henkel
+j. d. knight;j. w. starner
+richard n. dexter;benjamin  lax
+bernard g. harvey;albert  ghiorso
+a. z. schwarzschild;o. c. kistner
+william f. fry;george a. snow
+sulamith  goldhaber;aihud  pevsner
+stanley g. thompson;albert  ghiorso
+john e. brolley;j. w. starner
+alan m. thorndike;martin m. block
+bruce  cork;burton j. moyer
+albert  ghiorso;stanley g. thompson
+earle c. fowler;william b. fowler
+l. d. wyly;a.  zucker
+aihud  pevsner;william d. walker
+julius m. hastings;norman  elliott
+robert w. birge;jack  sandweiss
+jack  leitner;j. m. steinberger
+j. w. starner;john e. brolley
+brend t. matthias;ernest  corenzwit
+eugene  feenberg;paul  goldhammer
+w. g. smith;j. w. mihelich
+h. e. gove;d. a. bromley
+aihud  pevsner;r. d. hill
+leroy t. kerth;donald harvey stork
+s. b. treiman;robert g. sachs
+charles j. gallagher;john o. rasmussen
+david r. nethaway;walter e. nervik
+paul r. fields;d. w. engelkemeir
+t. w. bonner;robert h. davis
+william a. nierenberg;howard a. shugart
+a. z. schwarzschild;c. s. wu
+richard s. preston;r. m. walker
+j. h. hamilton;r. l. robinson
+h. e. gove;a. e. litherland
+j. m. steinberger;william  chinowsky
+j. e. gindler;paul r. fields
+leslie l. foldy;b. p. nigam
+j. h. hamilton;w. g. smith
+harry  suhl;albert m. clogston
+jack m. hollander;frank  asaro
+howard a. shugart;william a. nierenberg
+j. w. mihelich;jack m. hollander
+lawrence c. biedenharn;g.  breit
+david m. ritson;r. d. hill
+glenn t. seaborg;paul r. fields
+j. m. luttinger;walter  kohn
+james  rainwater;leon n. cooper
+hartmut p. kallmann;bernard  kramer
+john p. schiffer;t. w. bonner
+gertrude  scharff-goldhaber;marilyn  mckeown
+richard a. ferrell;william m. visscher
+c. s. wu;vernon w. hughes
+sergio  debenedetti;roman  smoluchowski
+bernard g. harvey;i.  perlman
+jack m. hollander;w. g. smith
+ellis p. steinberg;l. e. glendenin
+john c. wheatley;r. d. hill
+e. o. salant;r. d. hill
+richard n. dexter;herbert j. zeiger
+v. k. rasmussen;dan w. miller
+william a. wenzel;burton j. moyer
+r. l. robinson;w. g. smith
+v. k. rasmussen;milo b. sampson
+c. s. wu;a. z. schwarzschild
+richard s. preston;earle c. fowler
+albert m. clogston;philip w. anderson
+gene  dresselhaus;charles  kittel
+i.  perlman;bernard g. harvey
+aihud  pevsner;sulamith  goldhaber
+r. g. johnson;lawrence m. langer
+leroy t. kerth;jack  sandweiss
+george e. owen;hans  meissner
+glenn t. seaborg;herbert  diamond
+b. c. frazer;gen  shirane
+martin m. block;william b. fowler
+william a. wenzel;bruce  cork
+jeremy  bernstein;a. p. klein
+o. e. johnson;lawrence m. langer
+j. t. eisinger;g. c. phillips
+peter  axel;john d. fox
+louis  rosen;lawrence  cranberg
+peter c. stevenson;harry g. hicks
+f.  ajzenberg-selove;hans  mark
+w. g. smith;lawrence m. langer
+george j. schulz;sanborn c. brown
+lawrence c. biedenharn;m. h. hull
+ernest m. henley;t. d. lee
+marc h. ross;don b. lichtenberg
+a. w. fairhall;j. t. eisinger
+stanley g. thompson;john r. huizenga
+alan m. thorndike;william b. fowler
+t. d. lee;chen ning yang
+j. w. mihelich;w. g. smith
+laurie m. brown;michael a. peshkin
+e. m. bernstein;harold w. lewis
+w. w. buechner;a.  sperduto
+charles  kittel;gene  dresselhaus
+vincent  jaccarino;j. f. dillon
+harry  suhl;laurence r. walker
+j. j. lambe;clifford c. klick
+h. w. schmitt;john h. gibbons
+malvin a. ruderman;charles j. goebel
+l. e. glendenin;ellis p. steinberg
+robert  hofstadter;john a. mcintyre
+richard l. macklin;h. w. schmitt
+g. c. phillips;c. r. gossett
+gerson  goldhaber;sulamith  goldhaber
+harry j. lipkin;a.  de-shalit
+william  tobocman;leon n. cooper
+r. m. walker;james w. corbett
+jack m. hollander;john o. rasmussen
+david m. ritson;gerson  goldhaber
+geoffrey f. chew;francis e. low
+richard s. preston;henry l. kraybill
+douglas m. van patter;c. e. mandeville
+e. o. salant;aihud  pevsner
+thomas h. handley;bernard l. cohen
+philip w. anderson;albert m. clogston
+albert  ghiorso;bernard g. harvey
+gerson  goldhaber;owen  chamberlain
+vincent  jaccarino;r. g. shulman
+john l. gammel;kenneth m. watson
+aihud  pevsner;james  rainwater
+stanley  geschwind;vincent  jaccarino
+stanley  geschwind;j. f. dillon
+harold w. lewis;brend t. matthias
+bernard g. harvey;stanley g. thompson
+jay gregory dash;louis  goldstein
+joe keagy bair;harvey b. willard
+elizabeth w. baker;j.  hudis
+edwin  norbeck;samuel k. allison
+r. l. arnowitt;stephen g. gasiorowicz
+david m. ritson;william d. walker
+james w. corbett;r. m. walker
+donald harvey stork;robert w. birge
+herbert  diamond;glenn t. seaborg
+h. pierre noyes;b. p. nigam
+paul r. fields;j. e. gindler
+w. g. smith;frank  asaro
+william p. dumke;joseph  callaway
+david l. dexter;j. j. lambe
+walter e. nervik;glenn t. seaborg
+m. l. halbert;thomas h. handley
+grover d. o'kelley;eugene  eichler
+clyde e. wiegand;robert d. tripp
+o. c. kistner;brice m. rustad
+owen  chamberlain;gerson  goldhaber
+james  rainwater;seymour j. lindenbaum
+david m. ritson;bernard t. feld
+a. p. klein;jeremy  bernstein
+marilyn  mckeown;gertrude  scharff-goldhaber
+e. o. salant;william d. walker
+a.  sosin;james s. koehler
+aihud  pevsner;gerson  goldhaber
+don b. lichtenberg;marc h. ross
+j. w. starner;richard l. henkel
+john e. brolley;fred l. ribe
+samuel k. allison;edwin  norbeck
+m. h. hull;loyal  durand
+laurence r. walker;harry  suhl
+a. p. klein;francis e. low
+r. e. cutkosky;fredrik  zachariasen
+e. g. sudarshan;robert e. marshak
+w. c. koehler;e. o. wollan
+stephen g. gasiorowicz;r. l. arnowitt
+m. g. stewart;m. l. wiedenbeck
+m. l. rustgi;joseph s. levinger
+t. w. bonner;john p. schiffer
+robert d. tripp;owen  chamberlain
+s. b. treiman;h. w. wyld
+brend t. matthias;j. p. remeika
+m. h. hull;lawrence c. biedenharn
+john l. gammel;roy m. thaler
+gene  dresselhaus;arthur f. kip
+richard l. henkel;lawrence  cranberg
+george a. snow;william f. fry
+alan b. smith;paul r. fields
+jack  sandweiss;robert w. birge
+hans  mark;f.  ajzenberg-selove
+david  pines;francis e. low
+robert g. sachs;s. b. treiman
+theodore h. geballe;g. w. hull
+g. c. phillips;john p. schiffer
+william  chinowsky;leon m. lederman
+leon n. cooper;william  tobocman
+robert v. pyle;bernard g. harvey
+henry m. foley;andrew m. sessler
+albert  ghiorso;glenn t. seaborg
+k. f. huang;sidney d. drell
+hans  mark;r. d. lawson
+harvey b. willard;hans o. cohn
+robert w. birge;donald harvey stork
+george  feher;arthur f. kip
+r. l. robinson;lawrence m. langer
+james w. cronin;r. l. cool
+john p. schiffer;c. r. gossett
+t. d. lee;jay  orear
+david e. alburger;a. w. sunyar
+r. m. walker;richard s. preston
+b. c. frazer;ray  pepinsky
+ray  pepinsky;yoshiharu  okaya
+martin m. block;earle c. fowler
+donald r. hamilton;francis m. pipkin
+arthur f. kip;george  feher
+gen  shirane;ray  pepinsky
+owen  chamberlain;robert d. tripp
+bernard g. harvey;glenn t. seaborg
+john  bardeen;j. robert schrieffer
+w. g. smith;charles j. gallagher
+gerson  goldhaber;clyde e. wiegand
+r. r. hake;d. e. mapother
+paul r. fields;glenn t. seaborg
+laura m. roth;l. peter gold
+glenn t. seaborg;stanley g. thompson
+e.  almqvist;h. e. gove
+h.  palevsky;donald j. hughes

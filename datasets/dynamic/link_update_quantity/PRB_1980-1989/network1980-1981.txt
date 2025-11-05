@@ -1,0 +1,1012 @@
+elio  colavita;alfonso  franciosi
+franz j. himpsel;a. m. bradshaw
+d. t. peterson;elio  colavita
+g. r. stewart;c. w. chu
+uzi  landman;m. e. mostoller
+stephen m. shapiro;j. m. rowe
+james c. garland;david b. tanner
+stephen d. kevan;david a. shirley
+george florent reiter;robert j. birgeneau
+chun c. lin;w. y. ching
+d. e. buchanan;g. k. wertheim
+barry m. klein;c. s. wang
+dirk  schoemaker;etienne  goovaerts
+peter j. feibelman;franz j. himpsel
+g. k. shenoy;b. d. dunlap
+d. t. peterson;r. g. barnes
+andreas  magerl;j. m. rowe
+a. m. bradshaw;franz j. himpsel
+peter s. riseborough;d. l. mills
+jacek k. furdyna;gérald  bastard
+alex  zunger;marvin l. cohen
+jose a. vergés;carlos  tejedor
+a. e. jacobs;m. b. walker
+david a. shirley;p.  perfetti
+robert j. cava;r. v. coleman
+yves  baer;john c. fuggle
+john j. quinn;rajiv k. kalia
+c. k. loong;robert m. nicklow
+nicolás  garcía;milton w. cole
+raymond l. orbach;s. k. lyo
+sunil k. sinha;g. michael kalvius
+paul m. chaikin;e. m. engler
+a. k. ramdas;m. h. grimsditch
+james c. phillips;david e. aspnes
+robert m. fleming;j. v. waszczak
+andrew k. mcmahan;börje  johansson
+günter  kaindl;clemens  laubschat
+l. i. johansson;k. w. schwarz
+arthur j. freeman;warren e. pickett
+d.  sahu;s. d. mahanti
+jeffrey w. lynn;david e. moncton
+r. v. coleman;robert j. cava
+sunil k. sinha;g. k. shenoy
+david a. huse;michael e. fisher
+oscar  vogt;sunil k. sinha
+c. s. wang;barry m. klein
+arthur j. freeman;henry  krakauer
+bertrand i. halperin;david r. nelson
+larry l. boyer;john r. hardy
+karl h. bennemann;h. j. güntherodt
+richard e. watson;james w. davenport
+ora  entin-wohlman;aharon  kapitulnik
+sushil k. satija;gen  shirane
+sunil k. sinha;b. d. dunlap
+fernando  flores;enrique  louis
+peter  fulde;robert e. camley
+n. g. stoffel;p.  perfetti
+john h. weaver;v. l. moruzzi
+w. y. ching;david l. huber
+marvin l. cohen;d. j. chadi
+mildred s. dresselhaus;john e. fischer
+miron  kaufman;michael e. fisher
+john r. clem;vladimir g. kogan
+f.  patella;g.  margaritondo
+t. maurice rice;ravindra n. bhatt
+mohsen m. abd-elmeguid;günter  kaindl
+w. p. su;j. robert schrieffer
+gen  shirane;j. d. axe
+franz j. himpsel;wolfgang  eberhardt
+d. l. mills;l. j. sham
+c. r. leavens;j. p. carbotte
+alexei a. maradudin;n. e. glass
+risto m. nieminen;j.  oliva
+robert m. fleming;robert j. cava
+n. w. ashcroft;sudip  chakravarty
+j.  oliva;risto m. nieminen
+douglas j. scalapino;robert l. sugar
+jean  camassel;henry  mathieu
+john c. fuggle;olle  gunnarsson
+hae jin kim;akira  isihara
+gary s. grest;jayanth r. banavar
+risto m. nieminen;m. t. manninen
+mildred s. dresselhaus;peter c. eklund
+john c. fuggle;kurt  schönhammer
+alexei a. maradudin;l. j. sham
+l. j. sham;alexei a. maradudin
+yves  baer;h. r. ott
+jerry r. meyer;f. j. bartoli
+philip w. anderson;elihu  abrahams
+robert j. cava;j. v. waszczak
+j. m. rowe;stephen m. shapiro
+marvin l. cohen;james r. chelikowsky
+sudip  chakravarty;david m. wood
+j. l. morán-lópez;c. a. balseiro
+philip w. anderson;patrick a. lee
+boyd w. veal;donald e. ellis
+james b. boyce;j. w. allen
+c. w. chu;j. l. smith
+robert j. cava;francis j. disalvo
+wim m. de jonge;peter  wyder
+manuel  cardona;s.  ves
+c. w. chu;g. r. stewart
+lynn a. boatner;m. m. abraham
+james e. schirber;dimitrios a. papaconstantopoulos
+jeffrey w. lynn;gen  shirane
+n. g. stoffel;g.  margaritondo
+charles f. majkrzak;john r. hardy
+w. y. ching;chun c. lin
+hans  micklitz;günter  kaindl
+robert n. shelton;jeffrey w. lynn
+j. s. helman;isaac  balberg
+martti j. puska;m. t. manninen
+sankar  das sarma;rajiv k. kalia
+c.  quaresima;n. g. stoffel
+m. e. mostoller;mark  rasolt
+v. l. moruzzi;david w. lynch
+alan j. heeger;j. robert schrieffer
+talat s. rahman;robert e. camley
+peter h. dederichs;rudolf  zeller
+daniel c. tsui;arthur c. gossard
+gene  dresselhaus;b. s. elman
+gene a. baraff;m. a. schlüter
+gene  dresselhaus;victor e. henrich
+robert m. nicklow;c.  stassis
+m.  weinert;arthur j. freeman
+john j. quinn;s. c. ying
+j.  tersoff;l. m. falicov
+larry l. boyer;dimitrios a. papaconstantopoulos
+oscar  vogt;nils  mårtensson
+c.  stassis;bruce n. harmon
+h. j. freund;e. ward plummer
+g.  margaritondo;f.  patella
+chun c. lin;daniel j. lam
+otto f. sankey;charles w. myles
+r. r. galazka;jacek k. furdyna
+alan j. heeger;eugene j. mele
+l. j. sham;werner r. hanke
+k.  levin;oriol t. valls
+hideki  yoshizawa;j. d. axe
+k. m. leung;peter s. riseborough
+james e. schirber;ove  jepsen
+d. l. mills;s. y. tong
+w. y. ching;k. m. leung
+ting kuo lee;sudip  chakravarty
+r. w. cochrane;grant m. williams
+john. d. joannopoulos;robert b. laughlin
+l. c. gupta;r.  vijayaraghavan
+oriol t. valls;k.  levin
+lucio  braicovich;william e. spicer
+jean paul pouget;arthur j. epstein
+n. p. ong;george  grüner
+k. s. singwi;giovanni  vignale
+a. m. arts;h. w. de wijn
+michael  tinkham;christopher j. lobb
+theodore h. geballe;j. v. waszczak
+j. d. axe;hideki  yoshizawa
+david e. moncton;gen  shirane
+m. a. schlüter;chandra m. varma
+b. j. beaudry;ove  jepsen
+james e. schirber;james r. anderson
+gene a. baraff;michel  lannoo
+charles f. majkrzak;stephen m. shapiro
+thomas  timusk;j. p. carbotte
+g.  margaritondo;c.  quaresima
+alfonso  franciosi;elio  colavita
+belita  koiller;sergio m. rezende
+peter m. richards;peter a. fedders
+eleftherios n. economou;dimitrios a. papaconstantopoulos
+gerald b. arnold;malcolm r. beasley
+george a. sawatzky;cornelis  haas
+robert b. laughlin;john. d. joannopoulos
+e. ward plummer;n. w. holzwarth
+a. r. fert;peter m. levy
+costas m. soukoulis;eleftherios n. economou
+j.  oliva;n. w. ashcroft
+p.  perfetti;f.  patella
+philip b. allen;william h. butler
+g.  margaritondo;john h. weaver
+john e. black;d. l. mills
+lynn a. boatner;lloyd l. chase
+j. friso van der veen;john h. weaver
+john e. fischer;g. k. wertheim
+mark  rasolt;d. w. geldart
+f.  patella;c.  quaresima
+geoffrey v. chester;n. w. ashcroft
+david j. thouless;philip w. anderson
+frederick c. brown;c. g. olson
+john r. hardy;j. d. axe
+m. m. abraham;lynn a. boatner
+frank w. averill;gayle s. painter
+l. i. johansson;i.  lindau
+anthony  houghton;s. c. ying
+p.  perfetti;g.  margaritondo
+peter c. eklund;gene  dresselhaus
+börje  johansson;nils  mårtensson
+dale dean koelling;henry  krakauer
+andrew k. mcmahan;hans l. skriver
+geoffrey v. chester;k. k. mon
+paul m. chaikin;n. p. ong
+n. p. ong;paul m. chaikin
+wim m. de jonge;klaas  kopinga
+james r. anderson;dimitrios a. papaconstantopoulos
+arthur c. gossard;daniel c. tsui
+j. j. bernholc;sokrates t. pantelides
+d. j. chadi;john. d. joannopoulos
+d. l. mills;alexei a. maradudin
+gwyn p. williams;gerald j. lapeyre
+alex  zettl;george  grüner
+jörg  weber;rob  sauer
+john r. hardy;larry l. boyer
+donald e. ellis;boyd w. veal
+robert j. birgeneau;gen  shirane
+b. v. shanabrook;jeffrey s. lannin
+j. p. carbotte;c. r. leavens
+peter d. johnson;neville v. smith
+p. m. platzman;s. a. jackson
+robert m. fleming;francis j. disalvo
+g. w. hull;theodore h. geballe
+g. p. espinosa;j. p. remeika
+david a. shirley;james g. tobin
+satish k. malik;r.  vijayaraghavan
+james e. schirber;a. j. arko
+gen  shirane;hideki  yoshizawa
+eleftherios n. economou;costas m. soukoulis
+gerald d. mahan;s. m. girvin
+meera  chandrasekhar;m. h. grimsditch
+robert n. shelton;david e. moncton
+s. y. tong;james g. tobin
+david linton johnson;pabitra n. sen
+gene  dresselhaus;peter c. eklund
+lothar  ley;manuel  cardona
+c. s. wang;joseph  callaway
+ravindra n. bhatt;klaus  andres
+dimitrios a. papaconstantopoulos;aristides d. zdetsis
+n. w. holzwarth;e. ward plummer
+mikko a. paalanen;david j. bishop
+p.  perfetti;joachim  stöhr
+w. t. tsang;robert c. miller
+gary s. grest;costas m. soukoulis
+j. v. waszczak;francis j. disalvo
+stefano  baroni;erio  tosatti
+j. friso van der veen;a. m. bradshaw
+eugene j. mele;alan j. heeger
+charles w. myles;john d. dow
+stephen m. shapiro;gerard h. lander
+daniel s. fisher;patrick a. lee
+sokrates t. pantelides;j. j. bernholc
+hang nam ok;a. h. morrish
+gary s. grest;morrel h. cohen
+sudip  chakravarty;ting kuo lee
+robert c. miller;w. t. tsang
+yosef  yeshurun;myron b. salamon
+robert a. guyer;michael d. miller
+eugene j. mele;shahab  etemad
+f. h. dacol;gerald  burns
+dale dean koelling;allan h. macdonald
+peter d. johnson;z. d. hurych
+henry  krakauer;m.  weinert
+hans l. skriver;andrew k. mcmahan
+manuel  cardona;meera  chandrasekhar
+m. m. abraham;y. s. chen
+j. d. axe;gen  shirane
+c.  stassis;b. j. beaudry
+c. g. olson;david w. lynch
+d. wayne cooke;robert h. heffner
+john f. zasadzinski;malcolm r. beasley
+erling  pytte;yoseph  imry
+robert b. laughlin;d. j. chadi
+a. m. bradshaw;john h. weaver
+w. d. schneider;clemens  laubschat
+david l. huber;k. m. leung
+michel  lannoo;gene a. baraff
+d. j. chadi;james r. chelikowsky
+dimitrios a. papaconstantopoulos;larry l. boyer
+ctirad  uher;joseph p. heremans
+martti j. puska;risto m. nieminen
+james g. tobin;stephen d. kevan
+n. g. stoffel;c.  quaresima
+herman z. cummins;joseph l. birman
+e. ward plummer;h. j. freund
+mark  rasolt;uzi  landman
+kurt  schönhammer;olle  gunnarsson
+gen  shirane;david e. moncton
+john j. rush;andreas  magerl
+dimitrios a. papaconstantopoulos;james r. anderson
+gen  shirane;robert j. birgeneau
+pedro  schlottmann;c. a. balseiro
+j. v. waszczak;g. w. hull
+joachim  stöhr;david a. shirley
+john h. weaver;franz j. himpsel
+j. w. schneider;jörg  weber
+m. h. grimsditch;robert e. camley
+alfonso  franciosi;nils  mårtensson
+dimitrios a. papaconstantopoulos;james e. schirber
+r. v. coleman;robert m. fleming
+d. w. geldart;allan h. macdonald
+shahab  etemad;paul m. chaikin
+nils  mårtensson;lothar  ley
+john  clarke;c. c. chi
+gerald j. lapeyre;gwyn p. williams
+sunil k. sinha;gerard h. lander
+s. y. tong;d. l. mills
+lothar  ley;robert l. johnson
+d. l. mills;john e. black
+giorgio  benedek;victor r. velasco
+j. richard manson;rufus h. ritchie
+sunil k. sinha;oscar  vogt
+ting kuo lee;joseph l. birman
+george a. sawatzky;george  grüner
+david r. nelson;bertrand i. halperin
+stephen m. shapiro;dave g. hinks
+franco  jona;paul m. marcus
+gen  shirane;george florent reiter
+sudip  chakravarty;douglas j. scalapino
+w. t. tsang;arthur c. gossard
+d. t. peterson;alfonso  franciosi
+sankar  das sarma;john j. quinn
+hans jürgen kreuzer;zbigniew w. gortel
+allan h. macdonald;hans l. skriver
+r. g. barnes;d. t. peterson
+n. w. holzwarth;ansgar  liebsch
+lothar  ley;nils  mårtensson
+d. l. mills;k. m. leung
+b. j. beaudry;c.  stassis
+r. p. guertin;s. n. foner
+k. w. schwarz;axel nørlund christensen
+j. robert schrieffer;w. p. su
+j. v. waszczak;theodore h. geballe
+anders e. carlsson;h.  ehrenreich
+j. p. remeika;g. p. espinosa
+boyd w. veal;daniel j. lam
+christopher j. lobb;michael  tinkham
+t. maurice rice;peter b. littlewood
+james r. anderson;james e. schirber
+e. m. engler;paul m. chaikin
+frank j. pinski;j. woods halley
+gerald  burns;f. h. dacol
+g. g. martinez;minko  balkanski
+m.  jaros;hermann g. grimmeiss
+robert m. nicklow;m. e. mostoller
+joseph p. heremans;ctirad  uher
+stephen m. shapiro;charles f. majkrzak
+victor e. henrich;gene  dresselhaus
+herman z. cummins;fred h. pollak
+lorenzo  resca;raffaele  resta
+stephen d. kevan;s. y. tong
+paul d. beale;james a. krumhansl
+alan r. bishop;james a. krumhansl
+john h. weaver;n. g. stoffel
+cornelis  haas;george a. sawatzky
+william h. butler;philip b. allen
+james r. chelikowsky;marvin l. cohen
+m. a. schlüter;michel  lannoo
+z. d. hurych;peter d. johnson
+eugene j. mele;john. d. joannopoulos
+gene f. mazenko;oriol t. valls
+david a. kleinman;arthur c. gossard
+tom c. lubensky;a. brooks harris
+jörg  weber;j. w. schneider
+k. m. leung;w. y. ching
+john d. dow;otto f. sankey
+d. l. mills;robert e. camley
+franz j. himpsel;peter j. feibelman
+patrick a. lee;elihu  abrahams
+talat s. rahman;d. l. mills
+peter j. feibelman;d. r. hamann
+i.  lindau;j. w. allen
+a. r. king;sergio m. rezende
+d. w. geldart;mark  rasolt
+john. d. joannopoulos;eugene j. mele
+bruno  reihl;nils  mårtensson
+daniel j. lam;boyd w. veal
+olle  gunnarsson;john c. fuggle
+gérald  bastard;jacek k. furdyna
+mildred s. dresselhaus;b. s. elman
+james f. scott;george d. watkins
+peter s. riseborough;k. m. leung
+chandra m. varma;m. a. schlüter
+h. s. chen;myron b. salamon
+d. b. mcwhan;theodore h. geballe
+c. a. balseiro;j. l. morán-lópez
+michael e. fisher;miron  kaufman
+ove  jepsen;james e. schirber
+ove  jepsen;b. j. beaudry
+j. m. rowe;andreas  magerl
+v. l. moruzzi;john h. weaver
+klaus  andres;j. p. remeika
+james a. krumhansl;paul d. beale
+arthur j. freeman;dale dean koelling
+raymond l. orbach;fritz  lüty
+costas m. soukoulis;k.  levin
+c.  quaresima;f.  patella
+gerald d. mahan;david r. penn
+david m. wood;n. w. ashcroft
+edward a. stern;steve m. heald
+hideki  yoshizawa;sushil k. satija
+sushil k. satija;hideki  yoshizawa
+rajendra  prasad;arun  bansil
+d. r. hamann;l. f. mattheiss
+pui k. lam;alex  zunger
+oscar  vogt;stephen m. shapiro
+chandra m. varma;werner  weber
+b. d. dunlap;sunil k. sinha
+dave g. hinks;john j. rush
+dale dean koelling;arthur j. freeman
+günter  kaindl;w. d. schneider
+w. t. tsang;david a. kleinman
+william e. spicer;i.  lindau
+n. e. glass;alexei a. maradudin
+pedro m. echenique;rufus h. ritchie
+b. j. beaudry;james e. schirber
+theodore h. geballe;d. b. mcwhan
+john c. fuggle;h. r. ott
+talat s. rahman;alexei a. maradudin
+d. t. peterson;john h. weaver
+frank j. pinski;william h. butler
+j. d. axe;d. b. mcwhan
+john c. fuggle;yves  baer
+eugene e. haller;l. m. falicov
+m. t. manninen;risto m. nieminen
+b. d. dunlap;g. michael kalvius
+ivano  pollini;giorgio  benedek
+philip w. anderson;david j. thouless
+s. k. lyo;raymond l. orbach
+klaus  andres;t. maurice rice
+nils  mårtensson;börje  johansson
+george  grüner;george a. sawatzky
+sergio m. rezende;belita  koiller
+joachim  stöhr;p.  perfetti
+robert m. nicklow;c. k. loong
+c. k. loong;c.  stassis
+aristides d. zdetsis;dimitrios a. papaconstantopoulos
+j. l. morán-lópez;pedro  schlottmann
+v. l. moruzzi;arthur r. williams
+leonard  kleinman;d. m. bylander
+david c. langreth;elihu  abrahams
+s. y. tong;stephen d. kevan
+john h. weaver;g.  margaritondo
+morrel h. cohen;gary s. grest
+otto f. sankey;john d. dow
+manuel  cardona;philip b. allen
+yosef  yeshurun;h. s. chen
+b. d. dunlap;g. k. shenoy
+oscar  vogt;gerard h. lander
+s.  ves;manuel  cardona
+giuseppe pastori parravicini;stefano  baroni
+b. j. beaudry;karl a. gschneidner
+elihu  abrahams;patrick a. lee
+franz j. himpsel;j. friso van der veen
+b. j. beaudry;d. k. finnemore
+k. m. leung;david l. huber
+david l. huber;w. y. ching
+arthur j. freeman;c. s. wang
+sushil k. satija;j. d. axe
+w. r. datars;j. p. carbotte
+james e. schirber;b. j. beaudry
+francis j. disalvo;robert m. fleming
+hermann g. grimmeiss;m.  jaros
+alan j. heeger;shahab  etemad
+th.  jarlborg;arthur j. freeman
+j. w. allen;i.  lindau
+david h. vanderbilt;john. d. joannopoulos
+c.  stassis;c. k. loong
+elihu  abrahams;philip w. anderson
+victor r. velasco;giorgio  benedek
+william e. spicer;lucio  braicovich
+j. d. axe;charles f. majkrzak
+samuel h. liu;k. m. ho
+j. p. carbotte;e.  schachinger
+vincent  jaccarino;a. r. king
+d. k. finnemore;b. j. beaudry
+p.  perfetti;c.  quaresima
+l. m. falicov;j.  tersoff
+k. n. tu;james w. mayer
+walter a. harrison;sverre  froyen
+j. friso van der veen;franz j. himpsel
+theodore h. geballe;g. w. hull
+dave g. hinks;stephen m. shapiro
+k. m. ho;samuel h. liu
+erling  pytte;amnon  aharony
+roger g. uhrberg;göran v. hansson
+arthur j. freeman;th.  jarlborg
+jan c. maan;peter  wyder
+daniel j. lam;chun c. lin
+john e. fischer;gene  dresselhaus
+alfonso  franciosi;john h. weaver
+robert c. miller;david a. kleinman
+kurt  schönhammer;john c. fuggle
+vladimir g. kogan;john r. clem
+myron  strongin;yoseph  imry
+j. r. kirtley;j. j. chang
+george d. watkins;james f. scott
+john h. weaver;c. g. olson
+joseph l. birman;ting kuo lee
+shahab  etemad;michael j. rice
+g. w. hull;j. v. waszczak
+arthur j. freeman;m.  weinert
+ravindra n. bhatt;t. maurice rice
+klaus w. kehr;kurt  binder
+p.  perfetti;n. g. stoffel
+stefano  baroni;giuseppe pastori parravicini
+michel  lannoo;m. a. schlüter
+james a. krumhansl;alan r. bishop
+a. r. king;vincent  jaccarino
+james e. schirber;l. f. mattheiss
+myron b. salamon;yosef  yeshurun
+mark c. croft;john h. weaver
+jorge e. hirsch;oriol t. valls
+jean  camassel;bernard  gil
+david r. nelson;robijn f. bruinsma
+j. m. rowe;john j. rush
+elihu  abrahams;daniel s. fisher
+n. w. ashcroft;david m. wood
+g. michael kalvius;b. d. dunlap
+david a. shirley;stephen d. kevan
+oriol t. valls;jorge e. hirsch
+henry  mathieu;bernard  gil
+m. e. mostoller;y. s. chen
+alexis p. malozemoff;yoseph  imry
+david a. kleinman;robert c. miller
+g.  margaritondo;n. g. stoffel
+d. j. chadi;robert b. laughlin
+costas m. soukoulis;gary s. grest
+shahab  etemad;eugene j. mele
+l. i. johansson;joachim  stöhr
+s. m. girvin;gerald d. mahan
+l. j. sham;d. l. mills
+h. s. chen;yosef  yeshurun
+c. g. olson;john h. weaver
+c.  quaresima;g.  margaritondo
+henry  mathieu;jean  camassel
+g. k. shenoy;sunil k. sinha
+f.  patella;n. g. stoffel
+kurt  binder;david p. landau
+j. w. allen;james b. boyce
+arun  bansil;rajendra  prasad
+w. f. saam;k. k. mon
+manuel  cardona;lothar  ley
+robert c. miller;arthur c. gossard
+u.  kaufmann;jörg  weber
+elio  colavita;john h. weaver
+d. l. mills;peter s. riseborough
+robert h. heffner;d. wayne cooke
+j. p. carbotte;w. r. datars
+charles w. myles;otto f. sankey
+lloyd l. chase;lynn a. boatner
+milton w. cole;nicolás  garcía
+frederick c. brown;chuan hung chen
+gerald j. lapeyre;james r. anderson
+mildred s. dresselhaus;e. e. mendez
+j. robert schrieffer;alan j. heeger
+alex  zettl;raymond l. orbach
+m. e. mostoller;uzi  landman
+gene a. baraff;daniel c. tsui
+klaus  andres;g. p. espinosa
+sergio m. rezende;a. r. king
+andrzej m. oleś;wolfgang  nolting
+t. maurice rice;klaus  andres
+g. michael kalvius;g. k. shenoy
+yves. j. chabal;a. j. sievers
+sudip  chakravarty;n. w. ashcroft
+enrique  louis;jose a. vergés
+james g. tobin;david a. shirley
+john e. northrup;james r. chelikowsky
+k. k. mon;n. w. ashcroft
+h. w. de wijn;a. m. arts
+john j. rush;stephen m. shapiro
+bernard  gil;jean  camassel
+michael j. rice;shahab  etemad
+n. w. ashcroft;geoffrey v. chester
+peter  wyder;jan c. maan
+daniel s. fisher;philip w. anderson
+sunil k. sinha;stephen m. shapiro
+michael j. rice;alan j. heeger
+johannes e. van himbergen;sudip  chakravarty
+b. s. elman;gene  dresselhaus
+james w. davenport;richard e. watson
+j. l. morán-lópez;karl h. bennemann
+andreas  magerl;john j. rush
+warren e. pickett;dale dean koelling
+meera  chandrasekhar;manuel  cardona
+rudolf  zeller;peter h. dederichs
+daniel s. fisher;david j. thouless
+gen  shirane;m. f. thorpe
+z. d. hurych;neville v. smith
+george  grüner;alex  zettl
+isaac  balberg;j. s. helman
+n. g. stoffel;f.  patella
+günter  kaindl;hans  micklitz
+george florent reiter;gen  shirane
+ora  entin-wohlman;guy  deutscher
+c.  quaresima;p.  perfetti
+yoseph  imry;kurt  binder
+erling  pytte;kurt  binder
+karl a. gschneidner;b. j. beaudry
+arthur r. williams;franz j. himpsel
+robert l. sugar;douglas j. scalapino
+michael j. rice;david b. tanner
+arthur c. gossard;david a. kleinman
+michael d. miller;robert a. guyer
+a. h. morrish;hang nam ok
+mildred s. dresselhaus;gene  dresselhaus
+eugene j. mele;david h. vanderbilt
+gerard h. lander;oscar  vogt
+myron  strongin;m.  el-batanouny
+j. w. allen;l. i. johansson
+c. c. chi;john  clarke
+david e. aspnes;james c. phillips
+c.  ebner;charles w. myles
+horacio  ceva;blas r. alascio
+kurt  binder;erling  pytte
+arthur c. gossard;robert c. miller
+robert e. camley;talat s. rahman
+m. f. thorpe;gen  shirane
+g. malcolm stocks;j. s. faulkner
+rajiv k. kalia;sankar  das sarma
+john j. rush;dave g. hinks
+wolfgang  eberhardt;e. ward plummer
+k. m. leung;d. l. mills
+nils  mårtensson;alfonso  franciosi
+david r. penn;s. m. girvin
+i.  lindau;l. i. johansson
+puru  jena;risto m. nieminen
+peter s. riseborough;talat s. rahman
+guy  deutscher;ora  entin-wohlman
+paul m. chaikin;shahab  etemad
+patrick a. lee;daniel s. fisher
+henry  krakauer;dale dean koelling
+franz j. himpsel;d. r. hamann
+gary s. grest;k.  levin
+pabitra n. sen;david linton johnson
+david w. lynch;c. g. olson
+richard m. martin;stuart a. solin
+rufus h. ritchie;j. richard manson
+gernot  güntherodt;giorgio  benedek
+stephen m. shapiro;gen  shirane
+robert m. fleming;r. v. coleman
+james r. chelikowsky;john e. northrup
+j. l. smith;c. w. chu
+paul m. chaikin;george  grüner
+g. k. shenoy;g. michael kalvius
+alan j. heeger;daniel  moses
+talat s. rahman;peter s. riseborough
+c. s. wang;arthur j. freeman
+alfonso  franciosi;mark c. croft
+yoseph  imry;myron  strongin
+s. y. tong;david a. shirley
+k. w. schwarz;l. i. johansson
+george d. watkins;william b. fowler
+w. d. schneider;günter  kaindl
+henry  krakauer;arthur j. freeman
+mohsen m. abd-elmeguid;hans  micklitz
+david k. biegelsen;r. a. street
+c. a. balseiro;pedro  schlottmann
+neville v. smith;peter d. johnson
+e. m. engler;richard l. greene
+cesare  pisani;roberto  dovesi
+michael j. rice;eugene j. mele
+clemens  laubschat;günter  kaindl
+daniel s. fisher;elihu  abrahams
+john. d. joannopoulos;d. j. chadi
+s. c. ying;anthony  houghton
+puru  jena;m. t. manninen
+g. p. espinosa;klaus  andres
+olle  gunnarsson;kurt  schönhammer
+erio  tosatti;stefano  baroni
+giorgio  benedek;ivano  pollini
+daniel j. lam;donald e. ellis
+s. a. jackson;p. m. platzman
+david w. lynch;john h. weaver
+john h. weaver;alfonso  franciosi
+shahab  etemad;alan j. heeger
+philip b. allen;frank j. pinski
+yoseph  imry;erling  pytte
+j. p. remeika;klaus  andres
+r.  vijayaraghavan;l. c. gupta
+joseph  callaway;c. s. wang
+jose a. vergés;enrique  louis
+richard l. greene;e. m. engler
+j. w. schneider;u.  kaufmann
+john h. weaver;elio  colavita
+g. michael kalvius;sunil k. sinha
+otto f. sankey;peter a. fedders
+uzi  landman;mark  rasolt
+s. n. foner;r. p. guertin
+john e. fischer;daniel  moses
+barry m. klein;larry l. boyer
+stuart a. solin;richard m. martin
+eleftherios n. economou;aristides d. zdetsis
+hans l. skriver;allan h. macdonald
+zbigniew w. gortel;hans jürgen kreuzer
+bruno  reihl;franz j. himpsel
+john e. northrup;marvin l. cohen
+aristides d. zdetsis;eleftherios n. economou
+george  grüner;raymond l. orbach
+daniel  moses;john e. fischer
+l. f. mattheiss;james e. schirber
+david w. lynch;v. l. moruzzi
+jeffrey s. lannin;b. v. shanabrook
+ronald  fuchs;rubén g. barrera
+e. e. mendez;mildred s. dresselhaus
+david b. tanner;michael j. rice
+peter a. fedders;peter m. richards
+john p. perdew;david c. langreth
+c.  stassis;samuel h. liu
+malcolm r. beasley;john f. zasadzinski
+f. j. bartoli;jerry r. meyer
+a. j. sievers;yves. j. chabal
+elihu  abrahams;david c. langreth
+james g. tobin;s. y. tong
+p.  perfetti;david a. shirley
+j. v. waszczak;robert m. fleming
+joachim  stöhr;l. i. johansson
+robert n. shelton;a. r. moodenbaugh
+gene  dresselhaus;mildred s. dresselhaus
+m. b. walker;a. e. jacobs
+n. w. ashcroft;k. k. mon
+john e. fischer;peter c. eklund
+gayle s. painter;frank w. averill
+raffaele  resta;lorenzo  resca
+m. t. manninen;martti j. puska
+robert e. camley;alexei a. maradudin
+risto m. nieminen;puru  jena
+stephen m. shapiro;oscar  vogt
+kurt  binder;yoseph  imry
+arden  sher;a.  b. chen
+l. m. falicov;peter y. yu
+peter c. eklund;mildred s. dresselhaus
+l. f. mattheiss;d. r. hamann
+klaas  kopinga;wim m. de jonge
+o.  blaschko;lothar  pintschovius
+y.  sakisaka;m.  onchi
+werner r. hanke;l. j. sham
+albert w. overhauser;gabriele f. giuliani
+kazumi  maki;robijn f. bruinsma
+david j. bergman;david g. stroud
+a.  b. chen;arden  sher
+malcolm r. beasley;gerald b. arnold
+börje  johansson;hans l. skriver
+john h. weaver;a. m. bradshaw
+s. d. mahanti;d.  sahu
+robert e. camley;m. h. grimsditch
+robert e. camley;d. l. mills
+franz j. himpsel;bruno  reihl
+charles w. myles;c.  ebner
+robert j. cava;robert m. fleming
+dimitrios a. papaconstantopoulos;eleftherios n. economou
+robert j. birgeneau;george florent reiter
+peter y. yu;l. m. falicov
+robert n. shelton;gen  shirane
+m. e. mostoller;robert m. nicklow
+donald e. ellis;daniel j. lam
+j. v. waszczak;robert j. cava
+gen  shirane;stephen m. shapiro
+etienne  goovaerts;dirk  schoemaker
+arthur c. gossard;w. t. tsang
+stephen m. shapiro;sunil k. sinha
+john h. weaver;d. t. peterson
+john h. weaver;mark c. croft
+a. barry kunz;d. m. ginsberg
+raymond l. orbach;george  grüner
+kurt  binder;klaus w. kehr
+bruce n. harmon;c.  stassis
+dave g. hinks;j. m. rowe
+m. f. thorpe;robert j. birgeneau
+aharon  kapitulnik;ora  entin-wohlman
+barry m. klein;dimitrios a. papaconstantopoulos
+john j. rush;j. m. rowe
+daniel j. lam;w. y. ching
+m. t. manninen;puru  jena
+peter a. fedders;otto f. sankey
+gen  shirane;robert n. shelton
+alan j. heeger;michael j. rice
+g.  margaritondo;p.  perfetti
+n. w. ashcroft;j.  oliva
+robert j. birgeneau;m. f. thorpe
+ora  entin-wohlman;raymond l. orbach
+d. m. ginsberg;a. barry kunz
+marvin l. cohen;john e. northrup
+a. brooks harris;tom c. lubensky
+y. s. chen;m. m. abraham
+u.  kaufmann;j. w. schneider
+david r. penn;gerald d. mahan
+philip b. allen;manuel  cardona
+john d. dow;charles w. myles
+c.  ebner;david g. stroud
+pui k. lam;marvin l. cohen
+david a. shirley;s. y. tong
+amnon  aharony;erling  pytte
+g. k. wertheim;john e. fischer
+william b. fowler;george d. watkins
+bernard  gil;henry  mathieu
+karl h. bennemann;j. l. morán-lópez
+sverre  froyen;walter a. harrison
+robijn f. bruinsma;david r. nelson
+h. r. ott;john c. fuggle
+m. a. schlüter;gene a. baraff
+david g. stroud;david j. bergman
+george  grüner;paul m. chaikin
+james r. anderson;gwyn p. williams
+axel nørlund christensen;l. i. johansson
+francis j. disalvo;j. v. waszczak
+robert l. johnson;lothar  ley
+alexei a. maradudin;talat s. rahman
+john r. hardy;charles f. majkrzak
+mark  rasolt;m. e. mostoller
+david j. thouless;daniel s. fisher
+d. l. mills;talat s. rahman
+c. g. olson;frederick c. brown
+i.  lindau;william e. spicer
+e.  schachinger;j. p. carbotte
+günter  kaindl;mohsen m. abd-elmeguid
+john h. weaver;nils  mårtensson
+l. i. johansson;j. w. allen
+d. r. hamann;peter j. feibelman
+david c. langreth;john p. perdew
+richard f. wallis;john e. black
+j. w. schneider;hermann g. grimmeiss
+alex  zunger;pui k. lam
+h.  ehrenreich;anders e. carlsson
+h. r. ott;yves  baer
+a. j. arko;james e. schirber
+gene  dresselhaus;john e. fischer
+börje  johansson;andrew k. mcmahan
+alan j. heeger;w. p. su
+nils  mårtensson;oscar  vogt
+david p. landau;kurt  binder
+john h. weaver;david w. lynch
+nei fernandes oliveira;yaacov  shapira
+allan h. macdonald;dale dean koelling
+paul m. marcus;franco  jona
+hideki  yoshizawa;gen  shirane
+s. c. ying;john j. quinn
+francis j. disalvo;robert j. cava
+franz j. himpsel;john h. weaver
+philip w. anderson;daniel s. fisher
+rubén g. barrera;ronald  fuchs
+m. h. grimsditch;manuel  cardona
+david j. bishop;mikko a. paalanen
+paul m. chaikin;richard l. greene
+bruno  reihl;oscar  vogt
+d. r. hamann;franz j. himpsel
+dale dean koelling;warren e. pickett
+daniel c. tsui;gene a. baraff
+gabriele f. giuliani;albert w. overhauser
+douglas j. scalapino;sudip  chakravarty
+gen  shirane;sushil k. satija
+myron b. salamon;h. s. chen
+marvin l. cohen;pui k. lam
+richard l. greene;paul m. chaikin
+k.  levin;gary s. grest
+r. a. street;david k. biegelsen
+james w. mayer;k. n. tu
+william h. butler;frank j. pinski
+y. s. chen;m. e. mostoller
+robijn f. bruinsma;kazumi  maki
+wolfgang  nolting;andrzej m. oleś
+werner  weber;chandra m. varma
+gene f. mazenko;jorge e. hirsch
+yoseph  imry;alexis p. malozemoff
+raymond l. orbach;ora  entin-wohlman
+frank j. pinski;philip b. allen
+ansgar  liebsch;n. w. holzwarth
+robert j. birgeneau;david linton johnson
+robert e. camley;peter  fulde
+jeffrey w. lynn;robert n. shelton
+john f. zasadzinski;gerald b. arnold
+m. h. grimsditch;meera  chandrasekhar
+michael  ma;jen̋o  sólyom
+warren e. pickett;arthur j. freeman
+sergio m. rezende;vincent  jaccarino
+clemens  laubschat;w. d. schneider
+fred h. pollak;herman z. cummins
+melvin  lax;takashi  odagaki
+göran v. hansson;roger g. uhrberg
+rajiv k. kalia;john j. quinn
+d. m. bylander;leonard  kleinman
+david j. thouless;elihu  abrahams
+b. s. elman;mildred s. dresselhaus
+peter b. littlewood;t. maurice rice
+pedro  schlottmann;j. l. morán-lópez
+fritz  lüty;raymond l. orbach
+minko  balkanski;g. g. martinez
+klaus  andres;ravindra n. bhatt
+l. m. falicov;eugene e. haller
+g. k. wertheim;d. e. buchanan
+j. d. axe;john r. hardy
+dimitrios a. papaconstantopoulos;barry m. klein
+sudip  chakravarty;johannes e. van himbergen
+gerard h. lander;stephen m. shapiro
+r.  vijayaraghavan;satish k. malik
+j. d. axe;sushil k. satija
+marvin l. cohen;alex  zunger
+alexei a. maradudin;d. l. mills
+raymond l. orbach;alex  zettl
+c.  stassis;k. m. ho
+j. m. rowe;dave g. hinks
+wolfgang  eberhardt;franz j. himpsel
+a. k. ramdas;sergio  rodriguez
+carlos  tejedor;jose a. vergés
+d. b. mcwhan;j. d. axe
+eugene j. mele;michael j. rice
+patrick a. lee;philip w. anderson
+allan h. macdonald;d. w. geldart
+david e. moncton;jeffrey w. lynn
+john e. fischer;mildred s. dresselhaus
+stephen m. shapiro;john j. rush
+yaacov  shapira;nei fernandes oliveira
+m.  weinert;henry  krakauer
+f.  patella;p.  perfetti
+m. h. grimsditch;a. k. ramdas
+peter m. levy;a. r. fert
+sergio  rodriguez;a. k. ramdas
+gen  shirane;jeffrey w. lynn
+oriol t. valls;gene f. mazenko
+neville v. smith;z. d. hurych
+michael e. fisher;david a. huse
+joseph l. birman;herman z. cummins
+hermann g. grimmeiss;j. w. schneider
+s. m. girvin;david r. penn
+alexei a. maradudin;robert e. camley
+takashi  odagaki;melvin  lax
+e. ward plummer;ansgar  liebsch
+enrique  louis;fernando  flores
+grant m. williams;r. w. cochrane
+oscar  vogt;bruno  reihl
+akira  isihara;hae jin kim
+joel n. schulman;y. c. chang
+david h. vanderbilt;eugene j. mele
+daniel  moses;alan j. heeger
+peter c. eklund;john e. fischer
+jen̋o  sólyom;michael  ma
+john j. quinn;sankar  das sarma
+roberto  dovesi;cesare  pisani
+k. k. mon;geoffrey v. chester
+charles f. majkrzak;j. d. axe
+samuel h. liu;c.  stassis
+elio  colavita;d. t. peterson
+david a. shirley;joachim  stöhr
+steve m. heald;edward a. stern
+a. m. bradshaw;j. friso van der veen
+c.  stassis;robert m. nicklow
+yuval  gefen;yoseph  imry
+hans  micklitz;mohsen m. abd-elmeguid
+larry l. boyer;barry m. klein
+l. i. johansson;axel nørlund christensen
+david g. stroud;c.  ebner
+jacek k. furdyna;r. r. galazka
+david m. wood;sudip  chakravarty
+w. p. su;alan j. heeger
+s. t. chui;g.  forgacs
+alfonso  franciosi;d. t. peterson
+risto m. nieminen;martti j. puska
+m.  onchi;y.  sakisaka
+david linton johnson;robert j. birgeneau
+j. s. faulkner;g. malcolm stocks
+a. r. moodenbaugh;robert n. shelton
+franz j. himpsel;arthur r. williams
+manuel  cardona;m. h. grimsditch
+john. d. joannopoulos;david h. vanderbilt
+jayanth r. banavar;gary s. grest
+blas r. alascio;horacio  ceva
+george  grüner;n. p. ong
+manuel  cardona;diego j. olego
+j. woods halley;frank j. pinski
+chuan hung chen;frederick c. brown
+mark c. croft;alfonso  franciosi
+m.  el-batanouny;myron  strongin
+arthur j. epstein;jean paul pouget
+james r. chelikowsky;d. j. chadi
+e. ward plummer;wolfgang  eberhardt
+vincent  jaccarino;sergio m. rezende
+giorgio  benedek;gernot  güntherodt
+hans l. skriver;börje  johansson
+g.  forgacs;s. t. chui
+n. g. stoffel;john h. weaver
+nils  mårtensson;john h. weaver
+gerald b. arnold;john f. zasadzinski
+james r. anderson;gerald j. lapeyre
+k. m. ho;c.  stassis
+david e. moncton;robert n. shelton
+y. c. chang;joel n. schulman
+j. j. chang;j. r. kirtley
+j. p. carbotte;thomas  timusk
+rufus h. ritchie;pedro m. echenique
+jorge e. hirsch;gene f. mazenko
+rob  sauer;jörg  weber
+david a. kleinman;w. t. tsang
+nils  mårtensson;mark c. croft
+nils  mårtensson;bruno  reihl
+gwyn p. williams;james r. anderson
+gerard h. lander;sunil k. sinha
+arthur r. williams;v. l. moruzzi
+axel nørlund christensen;k. w. schwarz
+h. j. güntherodt;karl h. bennemann
+john e. black;richard f. wallis
+jörg  weber;u.  kaufmann
+mark c. croft;nils  mårtensson
+w. y. ching;daniel j. lam
+elihu  abrahams;david j. thouless
+yoseph  imry;yuval  gefen
+ansgar  liebsch;e. ward plummer
+diego j. olego;manuel  cardona
+david b. tanner;james c. garland
+peter  wyder;wim m. de jonge
+john h. weaver;j. friso van der veen
+giovanni  vignale;k. s. singwi
+k. k. mon;w. f. saam
+lothar  pintschovius;o.  blaschko
+stephen d. kevan;james g. tobin
+d. j. chadi;marvin l. cohen
+k.  levin;costas m. soukoulis
