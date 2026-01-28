@@ -186,3 +186,65 @@ class DynamicDegreeEnergy(Energy):
         e_diff_norm, diffs1 = self.evaluate_single_run(key, self.seeds[0])
         self.cache[key] = {"deg": diffs1, "E_deg_norm": e_diff_norm}
         return e_diff_norm, diffs1
+        
+class DynamicLcc_Eff(Energy):
+    def __init__(self, real_series, eval_args, eval_func, init_graph_path, target_len,
+                 base_seed=2025, repeats=1):
+        super().__init__(eval_args, eval_func, base_seed, repeats)
+        self.real_series = real_series
+        self.real_lcc = [x["S_LCC"] for x in real_series]
+        self.real_eff = [x["E_glob"] for x in real_series]
+        self.init_graph_path = init_graph_path
+        self.target_len = int(target_len)
+
+    @staticmethod
+    def _rel_err(a, b, eps=1e-12):
+        return abs(a - b) / max(eps, abs(b))
+
+    def evaluate_single_run(self, params, seed):
+        add_l, dlt_l, add_t, dlt_t = params
+
+        self.eval_args.add_list = int(add_l)
+        self.eval_args.dlt_list = int(dlt_l)
+        self.eval_args.add_thresh = float(add_t)
+        self.eval_args.dlt_thresh = float(dlt_t)
+        self.eval_args.init_graph_path = self.init_graph_path
+        self.eval_args.total_episodes = 1
+        self.eval_args.steps_per_episode = max(1, self.target_len - 1)
+        self.eval_args.is_train = False
+        if hasattr(self.eval_args, "seed"):
+            self.eval_args.seed = int(seed)
+
+        result = self.eval_func(self.eval_args, train_mode='dynamic_lcc_eff')
+
+        sim_lcc = result.get("S_LCC_series")
+        sim_eff = result.get("E_glob_series")
+        if sim_lcc is None or sim_eff is None:
+            raise RuntimeError("eval_func() must return S_LCC_series and E_glob_series")
+
+        sim_lcc = sim_lcc[: self.target_len]
+        sim_eff = sim_eff[: self.target_len]
+
+        E_lcc = [self._rel_err(sim_lcc[i], self.real_lcc[i]) for i in range(self.target_len)]
+        E_eff = [self._rel_err(sim_eff[i], self.real_eff[i]) for i in range(self.target_len)]
+
+        E_lcc_mean = float(np.mean(E_lcc))
+        E_eff_mean = float(np.mean(E_eff))
+
+        energy = 0.5 * E_lcc_mean + 0.5 * E_eff_mean
+
+        sim_series = [
+            {"S_LCC": float(sim_lcc[i]), "E_glob": float(sim_eff[i])}
+            for i in range(self.target_len)
+        ]
+
+        return energy, (E_lcc_mean, E_eff_mean, sim_series)
+
+    def compute_energy(self, params):
+        key = (int(params[0]), int(params[1]), float(params[2]), float(params[3]))
+        if key in self.cache:
+            v = self.cache[key]
+            return v["E"], v["sim_series"]
+        e1, (E_lcc, E_eff, sim_series) = self.evaluate_single_run(key, self.seeds[0])
+        self.cache[key] = {"E": e1, "E_lcc": E_lcc, "E_eff": E_eff, "sim_series": sim_series}
+        return e1, sim_series
