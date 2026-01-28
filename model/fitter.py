@@ -2,9 +2,10 @@ import os
 import time
 import csv
 
-from model.Energy import SwEnergy, DegreeEnergy, DynamicLuqEnergy, DynamicDegreeEnergy
+from model.Energy import SwEnergy, DegreeEnergy, DynamicLuqEnergy, DynamicDegreeEnergy, DynamicLcc_Eff
 from model.fit_utils import *
-from argument import DegreeFitConfig, SWFitConfig, DynamicLuqConfig, DynamicDegreeConfig
+from argument import DegreeFitConfig, SWFitConfig, DynamicLuqConfig, DynamicDegreeConfig, DynamicLccEffConfig
+
 
 
 class Fitter:
