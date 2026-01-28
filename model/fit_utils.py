@@ -206,7 +206,45 @@ def load_time_series_from_txt(txt_path):
     time1 = parse_series("Time1")
     time2 = parse_series("Time2")
     return {"Time1": time1, "Time2": time2}
+    
+def list_snapshot_gexf_files(folder_path: str):
+    """
+    Return sorted snapshot .gexf files; prefer snapshot_*.gexf naming if present.
+    """
+    all_gexf = [os.path.join(folder_path, f) for f in os.listdir(folder_path) if f.lower().endswith(".gexf")]
+    if not all_gexf:
+        return []
+    snapshot_like = [p for p in all_gexf if os.path.basename(p).lower().startswith("snapshot_")]
+    files = snapshot_like if snapshot_like else all_gexf
+    return sorted(files)
 
+
+def load_real_series_from_metrics(metrics_csv: str, target_len: int):
+    if not os.path.exists(metrics_csv):
+        raise FileNotFoundError(metrics_csv)
+
+    series = []
+    with open(metrics_csv, "r", encoding="utf-8") as f:
+        header = f.readline().strip().split(",")
+        if "S_LCC" not in header or "E_glob" not in header:
+            raise ValueError("metrics.csv must contain S_LCC and E_glob columns")
+        idx_lcc = header.index("S_LCC")
+        idx_eff = header.index("E_glob")
+        for line in f:
+            if not line.strip():
+                continue
+            parts = line.strip().split(",")
+            series.append({
+                "S_LCC": float(parts[idx_lcc]),
+                "E_glob": float(parts[idx_eff]),
+            })
+            if len(series) >= target_len:
+                break
+
+    if len(series) < target_len:
+        raise RuntimeError("metrics length < target_len")
+
+    return series
 def distribution_distance_dynamic_luq(real_diffs, sim_diffs):
 
     num_trans = min(len(real_diffs), len(sim_diffs))
