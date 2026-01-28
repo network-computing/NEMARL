@@ -94,3 +94,9 @@ class DynamicDegreeConfig:
     data_dir: str = "./datasets/dynamic/degree"
     summary_dir: str = "./output/fit_result/dynamic/degree"
 
+
+@dataclass
+class DynamicLccEffConfig:
+    data_dir: str = "./datasets/dynamic/lcc_eff"
+    summary_dir: str = "./output/fit_result/dynamic/lcc_eff"
+
