@@ -464,3 +464,134 @@ class DynamicDegreeFitter(Fitter):
                     str(best_deg2)
                 ])
 
+
+class DynamicLccEffFitter(Fitter):
+    def __init__(self, output_file_name):
+        super().__init__(DynamicLccEffConfig())
+        self.output_file_name = output_file_name
+        self.folders = [d for d in os.listdir(self.data_dir) if os.path.isdir(os.path.join(self.data_dir, d))]
+        self.folders.sort()
+
+    def pick_initial_params(self, degree_hist):
+        J = jsd_poisson_from_hist(degree_hist)
+        k_max = len(degree_hist) - 1
+
+        if J <= 0.10:
+            add_list = max(1, round(0.17 * k_max))
+            dlt_list = max(1, add_list // 2)
+            add_thresh = 0.02
+            dlt_thresh = 0.95
+        elif J <= 0.20:
+            add_list = max(1, round(0.5 * k_max))
+            dlt_list = max(1, add_list // 2)
+            add_thresh = 0.06
+            dlt_thresh = 0.91
+        else:
+            add_list = max(1, round(0.83 * k_max))
+            dlt_list = max(1, add_list // 2)
+            add_thresh = 0.10
+            dlt_thresh = 0.87
+
+        return (add_list, dlt_list, add_thresh, dlt_thresh)
+
+    def fit(self, eval_args, eval_func):
+        for folder in self.folders:
+            snapshots_dir = os.path.join(self.data_dir, folder)
+            gexf_files = list_snapshot_gexf_files(snapshots_dir)
+            if not gexf_files:
+                print(f"[WARN] Skipped: {folder} (No .gexf snapshots found)")
+                continue
+
+            metrics_csv = os.path.join(snapshots_dir, "metrics.csv")
+            target_len = len(gexf_files)
+            try:
+                real_series = load_real_series_from_metrics(metrics_csv, target_len)
+            except Exception as e:
+                print(f"[ERROR] Failed to load metrics: {folder} -> {e}")
+                continue
+
+            init_graph_path = gexf_files[0]
+            G0 = nx.read_gexf(init_graph_path)
+            num_nodes = G0.number_of_nodes()
+            max_deg = max(dict(G0.degree()).values()) if num_nodes > 0 else 1
+            BOUNDS = (
+                (1, max_deg),
+                (1, max(1, max_deg // 2)),
+                (0.00, 0.20),
+                (0.85, 0.98),
+            )
+
+            p0 = self.pick_initial_params(nx.degree_histogram(G0))
+            starts = [p0]
+            print(f"\n===== dataset {folder} =====")
+            print(f"[LOADING] {snapshots_dir}")
+            print(f"[Init] Initial parameters: {p0}")
+
+            energy_fn = DynamicLcc_Eff(
+                real_series, eval_args, eval_func,
+                init_graph_path=init_graph_path,
+                target_len=target_len,
+                base_seed=2025, repeats=1
+            )
+
+            global_best_p, global_best_E = None, float("inf")
+            for si, p0 in enumerate(starts):
+                print(f"[SA] Start {si + 1}/{len(starts)}: {p0}")
+                try:
+                    bp, bE, _ = SA_once(
+                        p0, energy_fn,
+                        rng_seed=2025 + 97 * si,
+                        alpha=0.95, L=80, Tmin_factor=1e-3, max_layers=60,
+                        bounds=BOUNDS
+                    )
+                except Exception as e:
+                    print(f"[ERROR] Error during SA process: {folder}, start {si + 1} -> {e}")
+                    continue
+
+                if bE < global_best_E:
+                    global_best_p, global_best_E = bp, bE
+
+            if global_best_p is None:
+                print(f"[WARN] The dataset {folder} did not produce valid results; writing was skipped")
+                continue
+
+            cache_key = (int(global_best_p[0]), int(global_best_p[1]),
+                         float(global_best_p[2]), float(global_best_p[3]))
+            e_lcc = energy_fn.cache[cache_key]["E_lcc"]
+            e_eff = energy_fn.cache[cache_key]["E_eff"]
+            sim_series = energy_fn.cache[cache_key]["sim_series"]
+
+            print(f"[Completed] {folder} Optimal parameters={global_best_p}")
+
+            summary_path = os.path.join(self.config.summary_dir, self.output_file_name)
+            os.makedirs(os.path.dirname(summary_path), exist_ok=True)
+            if not os.path.exists(summary_path) or os.path.getsize(summary_path) == 0:
+                with open(summary_path, "w", newline="", encoding="utf-8") as f:
+                    writer = csv.writer(f)
+                    writer.writerow([
+                        "dataset_folder",
+                        "snapshots_dir",
+                        "num_nodes",
+                        "target_len",
+                        "best_params(add_l,dlt_l,add_t,dlt_t)",
+                        "best_energy",
+                        "E_lcc",
+                        "E_eff",
+                        "sim_series",
+                        "real_series",
+                    ])
+
+            with open(summary_path, "a", newline="", encoding="utf-8") as f:
+                writer = csv.writer(f)
+                writer.writerow([
+                    folder,
+                    snapshots_dir,
+                    int(num_nodes),
+                    int(target_len),
+                    str(global_best_p),
+                    f"{global_best_E:.6f}",
+                    f"{e_lcc:.6f}",
+                    f"{e_eff:.6f}",
+                    str(sim_series),
+                    str(real_series),
+                ])
