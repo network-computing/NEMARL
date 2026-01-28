@@ -12,7 +12,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 def run(args, train_mode='train'):
-    assert train_mode in ['train', 'sw', 'degree', 'dynamic_degree', 'dynamic_luq']
+    assert train_mode in ['train', 'sw', 'degree', 'dynamic_degree', 'dynamic_luq', 'dynamic_lcc_eff']
     """Read the init graph"""
     if train_mode in ['sw', 'degree']:
         node_num = args.num_of_node
@@ -42,6 +42,18 @@ def run(args, train_mode='train'):
     pbar = tqdm(total=total_episodes)
 
     cur_nx_graph = copy.deepcopy(init_graph)
+
+    if train_mode == 'dynamic_lcc_eff':
+        s_lcc_series = []
+        e_glob_series = []
+        n0 = cur_nx_graph.number_of_nodes()
+        if n0 > 0:
+            lcc_size = len(max(nx.connected_components(cur_nx_graph), key=len)) if not nx.is_connected(cur_nx_graph) else n0
+            s_lcc_series.append(lcc_size / n0)
+            e_glob_series.append(nx.global_efficiency(cur_nx_graph))
+        else:
+            s_lcc_series.append(0.0)
+            e_glob_series.append(0.0)
     
     if train_mode == 'dynamic_luq':
         static_graphs = [cur_nx_graph]
@@ -76,6 +88,16 @@ def run(args, train_mode='train'):
 
             if train_mode == 'dynamic_luq':
                 static_graphs.append(cur_graph.get_nx_graph())
+            if train_mode == 'dynamic_lcc_eff':
+                nxg = cur_graph.get_nx_graph()
+                n = nxg.number_of_nodes()
+                if n > 0:
+                    lcc_size = len(max(nx.connected_components(nxg), key=len)) if not nx.is_connected(nxg) else n
+                    s_lcc_series.append(lcc_size / n)
+                    e_glob_series.append(nx.global_efficiency(nxg))
+                else:
+                    s_lcc_series.append(0.0)
+                    e_glob_series.append(0.0)
 
             if (episode_i + 1) % 5 == 0:
                 out_graph_path = os.path.join(args.out_graph_dir, f"graph_{step_i}.gexf")
@@ -106,6 +128,11 @@ def run(args, train_mode='train'):
             if train_mode == 'dynamic_degree':
                 fit_info.update({
                     'degree_distribution': nx.degree_histogram(cur_graph.nx_graph)
+                })
+            if train_mode == 'dynamic_lcc_eff':
+                fit_info.update({
+                    'S_LCC_series': s_lcc_series,
+                    'E_glob_series': e_glob_series
                 })
                 
             return fit_info
