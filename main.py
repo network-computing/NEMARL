@@ -11,7 +11,7 @@ if __name__ == '__main__':
         args.out_graph_dir = os.path.join(out_graphs_dir, "train")
         run(args)
     else:
-        assert args.mode in ['static_sw', 'static_degree', 'dynamic_luq', 'dynamic_degree']
+        assert args.mode in ['static_sw', 'static_degree', 'dynamic_luq', 'dynamic_degree', 'dynamic_lcc_eff']
         args.total_episodes = 1
         if 'static' in args.mode:
             if args.mode == 'static_sw':
@@ -41,6 +41,12 @@ if __name__ == '__main__':
                 args.out_graph_dir = os.path.join(out_graphs_dir, "dynamic_degree")
                 dynamic_degree_fitter = DynamicDegreeFitter(output_file_name="dynamic_degree_summary_basic.csv" if not args.is_irl else "dynamic_degree_summary_irl.csv")
                 dynamic_degree_fitter.fit(args, run)
+            elif args.mode == 'dynamic_lcc_eff':
+                from model.fitter import DynamicLccEffFitter
+                print('[INFO] Begin the dynamic LCC/EFF tasks')
+                args.out_graph_dir = os.path.join(out_graphs_dir, "dynamic_lcc_eff")
+                dynamic_lcc_eff_fitter = DynamicLccEffFitter(output_file_name="dynamic_lcc_eff_summary_basic.csv" if not args.is_irl else "dynamic_lcc_eff_summary_irl.csv")
+                dynamic_lcc_eff_fitter.fit(args, run)
             else:
                 assert False, "[Error] Unknown dynamic task!"
 
